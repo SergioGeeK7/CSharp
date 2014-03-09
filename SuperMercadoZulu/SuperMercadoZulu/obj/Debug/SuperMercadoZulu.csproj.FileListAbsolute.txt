@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2012\Projects\SuperMercadoZulu\SuperMercadoZulu\bin\Debug\SuperMercadoZulu.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\SuperMercadoZulu\SuperMercadoZulu\bin\Debug\SuperMercadoZulu.exe
+c:\users\andres\documents\visual studio 2012\Projects\SuperMercadoZulu\SuperMercadoZulu\bin\Debug\SuperMercadoZulu.pdb
+c:\users\andres\documents\visual studio 2012\Projects\SuperMercadoZulu\SuperMercadoZulu\obj\Debug\SuperMercadoZulu.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\SuperMercadoZulu\SuperMercadoZulu\obj\Debug\SuperMercadoZulu.exe
+c:\users\andres\documents\visual studio 2012\Projects\SuperMercadoZulu\SuperMercadoZulu\obj\Debug\SuperMercadoZulu.pdb

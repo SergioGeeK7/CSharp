@@ -1,0 +1,4 @@
+c:\users\andres\documents\visual studio 2012\Projects\libPractica1\libPractica1\bin\Debug\libPractica1.dll
+c:\users\andres\documents\visual studio 2012\Projects\libPractica1\libPractica1\bin\Debug\libPractica1.pdb
+c:\users\andres\documents\visual studio 2012\Projects\libPractica1\libPractica1\obj\Debug\libPractica1.dll
+c:\users\andres\documents\visual studio 2012\Projects\libPractica1\libPractica1\obj\Debug\libPractica1.pdb

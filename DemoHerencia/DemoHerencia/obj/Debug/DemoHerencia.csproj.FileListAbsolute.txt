@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2012\Projects\DemoHerencia\DemoHerencia\bin\Debug\DemoHerencia.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\DemoHerencia\DemoHerencia\bin\Debug\DemoHerencia.exe
+c:\users\andres\documents\visual studio 2012\Projects\DemoHerencia\DemoHerencia\bin\Debug\DemoHerencia.pdb
+c:\users\andres\documents\visual studio 2012\Projects\DemoHerencia\DemoHerencia\obj\Debug\DemoHerencia.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\DemoHerencia\DemoHerencia\obj\Debug\DemoHerencia.exe
+c:\users\andres\documents\visual studio 2012\Projects\DemoHerencia\DemoHerencia\obj\Debug\DemoHerencia.pdb

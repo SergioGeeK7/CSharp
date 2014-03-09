@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2012\Projects\EjemploDeClases\EjemploDeClases\bin\Debug\EjemploDeClases.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\EjemploDeClases\EjemploDeClases\bin\Debug\EjemploDeClases.exe
+c:\users\andres\documents\visual studio 2012\Projects\EjemploDeClases\EjemploDeClases\bin\Debug\EjemploDeClases.pdb
+c:\users\andres\documents\visual studio 2012\Projects\EjemploDeClases\EjemploDeClases\obj\Debug\EjemploDeClases.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\EjemploDeClases\EjemploDeClases\obj\Debug\EjemploDeClases.exe
+c:\users\andres\documents\visual studio 2012\Projects\EjemploDeClases\EjemploDeClases\obj\Debug\EjemploDeClases.pdb

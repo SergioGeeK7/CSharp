@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2012\Projects\Foreach\Foreach\bin\Debug\Foreach.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\Foreach\Foreach\bin\Debug\Foreach.exe
+c:\users\andres\documents\visual studio 2012\Projects\Foreach\Foreach\bin\Debug\Foreach.pdb
+c:\users\andres\documents\visual studio 2012\Projects\Foreach\Foreach\obj\Debug\Foreach.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\Foreach\Foreach\obj\Debug\Foreach.exe
+c:\users\andres\documents\visual studio 2012\Projects\Foreach\Foreach\obj\Debug\Foreach.pdb

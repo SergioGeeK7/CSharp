@@ -1,0 +1,5 @@
+E:\desarrollo .... Delio\Ejercicio2Taller\libEjercicio2\libEjercicio2\bin\Debug\libEjercicio2.dll
+E:\desarrollo .... Delio\Ejercicio2Taller\libEjercicio2\libEjercicio2\bin\Debug\libEjercicio2.pdb
+E:\desarrollo .... Delio\Ejercicio2Taller\libEjercicio2\libEjercicio2\obj\Debug\libEjercicio2.csprojResolveAssemblyReference.cache
+E:\desarrollo .... Delio\Ejercicio2Taller\libEjercicio2\libEjercicio2\obj\Debug\libEjercicio2.dll
+E:\desarrollo .... Delio\Ejercicio2Taller\libEjercicio2\libEjercicio2\obj\Debug\libEjercicio2.pdb

@@ -1,0 +1,5 @@
+T:\Parcial1_Garcia Jennifer\LibParcial1\LibParcial1\bin\Debug\LibParcial1.dll
+T:\Parcial1_Garcia Jennifer\LibParcial1\LibParcial1\bin\Debug\LibParcial1.pdb
+T:\Parcial1_Garcia Jennifer\LibParcial1\LibParcial1\obj\Debug\LibParcial1.csprojResolveAssemblyReference.cache
+T:\Parcial1_Garcia Jennifer\LibParcial1\LibParcial1\obj\Debug\LibParcial1.dll
+T:\Parcial1_Garcia Jennifer\LibParcial1\LibParcial1\obj\Debug\LibParcial1.pdb

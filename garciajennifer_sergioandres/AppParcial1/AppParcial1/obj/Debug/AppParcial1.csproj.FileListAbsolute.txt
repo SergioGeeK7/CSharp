@@ -1,0 +1,22 @@
+T:\Parcial1_Garcia Jennifer\AppParcial1\AppParcial1\bin\Debug\AppParcial1.exe.config
+T:\Parcial1_Garcia Jennifer\AppParcial1\AppParcial1\bin\Debug\AppParcial1.exe
+T:\Parcial1_Garcia Jennifer\AppParcial1\AppParcial1\bin\Debug\AppParcial1.pdb
+T:\Parcial1_Garcia Jennifer\AppParcial1\AppParcial1\bin\Debug\LibParcial1.dll
+T:\Parcial1_Garcia Jennifer\AppParcial1\AppParcial1\bin\Debug\LibParcial1.pdb
+T:\Parcial1_Garcia Jennifer\AppParcial1\AppParcial1\obj\Debug\AppParcial1.csprojResolveAssemblyReference.cache
+T:\Parcial1_Garcia Jennifer\AppParcial1\AppParcial1\obj\Debug\AppParcial1.AppParcial1.resources
+T:\Parcial1_Garcia Jennifer\AppParcial1\AppParcial1\obj\Debug\AppParcial1.Properties.Resources.resources
+T:\Parcial1_Garcia Jennifer\AppParcial1\AppParcial1\obj\Debug\AppParcial1.csproj.GenerateResource.Cache
+T:\Parcial1_Garcia Jennifer\AppParcial1\AppParcial1\obj\Debug\AppParcial1.exe
+T:\Parcial1_Garcia Jennifer\AppParcial1\AppParcial1\obj\Debug\AppParcial1.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\garciajennifer_sergioandres\AppParcial1\AppParcial1\bin\Debug\AppParcial1.exe.config
+C:\Users\andres\Documents\Visual Studio 2012\Projects\garciajennifer_sergioandres\AppParcial1\AppParcial1\obj\Debug\AppParcial1.exe
+C:\Users\andres\Documents\Visual Studio 2012\Projects\garciajennifer_sergioandres\AppParcial1\AppParcial1\obj\Debug\AppParcial1.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\garciajennifer_sergioandres\AppParcial1\AppParcial1\bin\Debug\AppParcial1.exe
+C:\Users\andres\Documents\Visual Studio 2012\Projects\garciajennifer_sergioandres\AppParcial1\AppParcial1\bin\Debug\AppParcial1.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\garciajennifer_sergioandres\AppParcial1\AppParcial1\bin\Debug\LibParcial1.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\garciajennifer_sergioandres\AppParcial1\AppParcial1\bin\Debug\LibParcial1.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\garciajennifer_sergioandres\AppParcial1\AppParcial1\obj\Debug\AppParcial1.csprojResolveAssemblyReference.cache
+C:\Users\andres\Documents\Visual Studio 2012\Projects\garciajennifer_sergioandres\AppParcial1\AppParcial1\obj\Debug\AppParcial1.AppParcial1.resources
+C:\Users\andres\Documents\Visual Studio 2012\Projects\garciajennifer_sergioandres\AppParcial1\AppParcial1\obj\Debug\AppParcial1.Properties.Resources.resources
+C:\Users\andres\Documents\Visual Studio 2012\Projects\garciajennifer_sergioandres\AppParcial1\AppParcial1\obj\Debug\AppParcial1.csproj.GenerateResource.Cache
