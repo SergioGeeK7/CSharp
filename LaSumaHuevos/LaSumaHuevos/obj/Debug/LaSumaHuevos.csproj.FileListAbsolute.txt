@@ -1,0 +1,13 @@
+c:\users\andres\documents\visual studio 2012\Projects\LaSumaHuevos\LaSumaHuevos\bin\Debug\LaSumaHuevos.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\LaSumaHuevos\LaSumaHuevos\bin\Debug\LaSumaHuevos.exe
+c:\users\andres\documents\visual studio 2012\Projects\LaSumaHuevos\LaSumaHuevos\bin\Debug\LaSumaHuevos.pdb
+c:\users\andres\documents\visual studio 2012\Projects\LaSumaHuevos\LaSumaHuevos\obj\Debug\LaSumaHuevos.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\LaSumaHuevos\LaSumaHuevos\obj\Debug\LaSumaHuevos.Properties.Resources.resources
+c:\users\andres\documents\visual studio 2012\Projects\LaSumaHuevos\LaSumaHuevos\obj\Debug\LaSumaHuevos.csproj.GenerateResource.Cache
+c:\users\andres\documents\visual studio 2012\Projects\LaSumaHuevos\LaSumaHuevos\obj\Debug\LaSumaHuevos.exe
+c:\users\andres\documents\visual studio 2012\Projects\LaSumaHuevos\LaSumaHuevos\obj\Debug\LaSumaHuevos.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\LaSumaHuevos\LaSumaHuevos\obj\Debug\LaSumaHuevos.FormCalculadora.resources
+C:\Users\andres\Documents\Visual Studio 2012\Projects\LaSumaHuevos\LaSumaHuevos\bin\Debug\LaSumaHuevos.exe.manifest
+C:\Users\andres\Documents\Visual Studio 2012\Projects\LaSumaHuevos\LaSumaHuevos\bin\Debug\LaSumaHuevos.application
+C:\Users\andres\Documents\Visual Studio 2012\Projects\LaSumaHuevos\LaSumaHuevos\obj\Debug\LaSumaHuevos.exe.manifest
+C:\Users\andres\Documents\Visual Studio 2012\Projects\LaSumaHuevos\LaSumaHuevos\obj\Debug\LaSumaHuevos.application

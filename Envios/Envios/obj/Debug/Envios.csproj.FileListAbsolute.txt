@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2012\Projects\Envios\Envios\bin\Debug\Envios.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\Envios\Envios\bin\Debug\Envios.exe
+c:\users\andres\documents\visual studio 2012\Projects\Envios\Envios\bin\Debug\Envios.pdb
+c:\users\andres\documents\visual studio 2012\Projects\Envios\Envios\obj\Debug\Envios.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\Envios\Envios\obj\Debug\Envios.exe
+c:\users\andres\documents\visual studio 2012\Projects\Envios\Envios\obj\Debug\Envios.pdb

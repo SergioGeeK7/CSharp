@@ -1,0 +1,7 @@
+C:\tmp\LibConexionBD\LibConexionBD\bin\Debug\LibConexionBD.dll
+C:\tmp\LibConexionBD\LibConexionBD\bin\Debug\LibConexionBD.pdb
+C:\tmp\LibConexionBD\LibConexionBD\bin\Debug\LibParametros.dll
+C:\tmp\LibConexionBD\LibConexionBD\bin\Debug\LibParametros.pdb
+C:\tmp\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.csprojResolveAssemblyReference.cache
+C:\tmp\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.dll
+C:\tmp\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.pdb

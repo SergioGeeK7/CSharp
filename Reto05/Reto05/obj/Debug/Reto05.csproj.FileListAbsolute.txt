@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2012\Projects\Reto05\Reto05\bin\Debug\Reto05.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\Reto05\Reto05\obj\Debug\Reto05.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\Reto05\Reto05\bin\Debug\Reto05.exe
+c:\users\andres\documents\visual studio 2012\Projects\Reto05\Reto05\bin\Debug\Reto05.pdb
+c:\users\andres\documents\visual studio 2012\Projects\Reto05\Reto05\obj\Debug\Reto05.exe
+c:\users\andres\documents\visual studio 2012\Projects\Reto05\Reto05\obj\Debug\Reto05.pdb

@@ -1,0 +1,11 @@
+c:\users\andres\documents\visual studio 2012\Projects\PruebaLibParametros\PruebaLibParametros\bin\Debug\PruebaLibParametros.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\PruebaLibParametros\PruebaLibParametros\bin\Debug\PruebaLibParametros.exe
+c:\users\andres\documents\visual studio 2012\Projects\PruebaLibParametros\PruebaLibParametros\bin\Debug\PruebaLibParametros.pdb
+c:\users\andres\documents\visual studio 2012\Projects\PruebaLibParametros\PruebaLibParametros\obj\Debug\PruebaLibParametros.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\PruebaLibParametros\PruebaLibParametros\obj\Debug\PruebaLibParametros.Form1.resources
+c:\users\andres\documents\visual studio 2012\Projects\PruebaLibParametros\PruebaLibParametros\obj\Debug\PruebaLibParametros.Properties.Resources.resources
+c:\users\andres\documents\visual studio 2012\Projects\PruebaLibParametros\PruebaLibParametros\obj\Debug\PruebaLibParametros.csproj.GenerateResource.Cache
+c:\users\andres\documents\visual studio 2012\Projects\PruebaLibParametros\PruebaLibParametros\obj\Debug\PruebaLibParametros.exe
+c:\users\andres\documents\visual studio 2012\Projects\PruebaLibParametros\PruebaLibParametros\obj\Debug\PruebaLibParametros.pdb
+c:\users\andres\documents\visual studio 2012\Projects\PruebaLibParametros\PruebaLibParametros\bin\Debug\LibParametros.dll
+c:\users\andres\documents\visual studio 2012\Projects\PruebaLibParametros\PruebaLibParametros\bin\Debug\LibParametros.pdb

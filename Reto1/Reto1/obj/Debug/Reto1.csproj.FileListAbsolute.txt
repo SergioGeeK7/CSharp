@@ -1,0 +1,5 @@
+c:\users\andres\documents\visual studio 2012\Projects\Reto1\Reto1\bin\Debug\Reto1.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\Reto1\Reto1\bin\Debug\Reto1.exe
+c:\users\andres\documents\visual studio 2012\Projects\Reto1\Reto1\bin\Debug\Reto1.pdb
+c:\users\andres\documents\visual studio 2012\Projects\Reto1\Reto1\obj\Debug\Reto1.exe
+c:\users\andres\documents\visual studio 2012\Projects\Reto1\Reto1\obj\Debug\Reto1.pdb

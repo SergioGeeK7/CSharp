@@ -1,0 +1,9 @@
+C:\tmp\LibLlenarGrids\LibLlenarGrids\bin\Debug\LibLlenarGrids.dll
+C:\tmp\LibLlenarGrids\LibLlenarGrids\bin\Debug\LibLlenarGrids.pdb
+C:\tmp\LibLlenarGrids\LibLlenarGrids\bin\Debug\LibConexionBD.dll
+C:\tmp\LibLlenarGrids\LibLlenarGrids\bin\Debug\LibParametros.dll
+C:\tmp\LibLlenarGrids\LibLlenarGrids\bin\Debug\LibConexionBD.pdb
+C:\tmp\LibLlenarGrids\LibLlenarGrids\bin\Debug\LibParametros.pdb
+C:\tmp\LibLlenarGrids\LibLlenarGrids\obj\Debug\LibLlenarGrids.csprojResolveAssemblyReference.cache
+C:\tmp\LibLlenarGrids\LibLlenarGrids\obj\Debug\LibLlenarGrids.dll
+C:\tmp\LibLlenarGrids\LibLlenarGrids\obj\Debug\LibLlenarGrids.pdb

@@ -1,0 +1,10 @@
+C:\Users\salaf410\AppData\Local\Temporary Projects\LibParametros\bin\Debug\LibParametros.dll
+C:\Users\salaf410\AppData\Local\Temporary Projects\LibParametros\bin\Debug\LibParametros.pdb
+C:\Users\salaf410\AppData\Local\Temporary Projects\LibParametros\obj\Debug\LibParametros.csprojResolveAssemblyReference.cache
+C:\Users\salaf410\AppData\Local\Temporary Projects\LibParametros\obj\Debug\LibParametros.dll
+C:\Users\salaf410\AppData\Local\Temporary Projects\LibParametros\obj\Debug\LibParametros.pdb
+C:\Tmp\LibParametros\LibParametros\bin\Debug\LibParametros.dll
+C:\Tmp\LibParametros\LibParametros\bin\Debug\LibParametros.pdb
+C:\Tmp\LibParametros\LibParametros\obj\Debug\LibParametros.dll
+C:\Tmp\LibParametros\LibParametros\obj\Debug\LibParametros.pdb
+C:\tmp\LibParametros\LibParametros\obj\Debug\LibParametros.csprojResolveAssemblyReference.cache

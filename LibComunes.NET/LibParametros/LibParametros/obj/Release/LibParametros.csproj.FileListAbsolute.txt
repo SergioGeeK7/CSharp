@@ -1,0 +1,4 @@
+C:\tmp\LibParametros\LibParametros\bin\Release\LibParametros.dll
+C:\tmp\LibParametros\LibParametros\bin\Release\LibParametros.pdb
+C:\tmp\LibParametros\LibParametros\obj\Release\LibParametros.dll
+C:\tmp\LibParametros\LibParametros\obj\Release\LibParametros.pdb

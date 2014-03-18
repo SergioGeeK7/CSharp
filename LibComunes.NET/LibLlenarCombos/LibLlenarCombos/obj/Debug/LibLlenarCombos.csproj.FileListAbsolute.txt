@@ -1,0 +1,9 @@
+C:\tmp\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibLlenarCombos.dll
+C:\tmp\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibLlenarCombos.pdb
+C:\tmp\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibConexionBD.dll
+C:\tmp\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibParametros.dll
+C:\tmp\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibConexionBD.pdb
+C:\tmp\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibParametros.pdb
+C:\tmp\LibLlenarCombos\LibLlenarCombos\obj\Debug\LibLlenarCombos.dll
+C:\tmp\LibLlenarCombos\LibLlenarCombos\obj\Debug\LibLlenarCombos.pdb
+C:\tmp\LibLlenarCombos\LibLlenarCombos\obj\Debug\LibLlenarCombos.csprojResolveAssemblyReference.cache

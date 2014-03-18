@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2012\Projects\FuncionCuadratica\FuncionCuadratica\bin\Debug\FuncionCuadratica.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\FuncionCuadratica\FuncionCuadratica\bin\Debug\FuncionCuadratica.exe
+c:\users\andres\documents\visual studio 2012\Projects\FuncionCuadratica\FuncionCuadratica\bin\Debug\FuncionCuadratica.pdb
+c:\users\andres\documents\visual studio 2012\Projects\FuncionCuadratica\FuncionCuadratica\obj\Debug\FuncionCuadratica.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\FuncionCuadratica\FuncionCuadratica\obj\Debug\FuncionCuadratica.exe
+c:\users\andres\documents\visual studio 2012\Projects\FuncionCuadratica\FuncionCuadratica\obj\Debug\FuncionCuadratica.pdb

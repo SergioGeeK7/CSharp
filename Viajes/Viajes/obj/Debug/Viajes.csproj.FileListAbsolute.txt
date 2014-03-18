@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2012\Projects\Viajes\Viajes\bin\Debug\Viajes.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\Viajes\Viajes\obj\Debug\Viajes.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\Viajes\Viajes\bin\Debug\Viajes.exe
+c:\users\andres\documents\visual studio 2012\Projects\Viajes\Viajes\bin\Debug\Viajes.pdb
+c:\users\andres\documents\visual studio 2012\Projects\Viajes\Viajes\obj\Debug\Viajes.exe
+c:\users\andres\documents\visual studio 2012\Projects\Viajes\Viajes\obj\Debug\Viajes.pdb

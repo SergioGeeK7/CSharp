@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2012\Projects\Tortas\Tortas\bin\Debug\Tortas.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\Tortas\Tortas\bin\Debug\Tortas.exe
+c:\users\andres\documents\visual studio 2012\Projects\Tortas\Tortas\bin\Debug\Tortas.pdb
+c:\users\andres\documents\visual studio 2012\Projects\Tortas\Tortas\obj\Debug\Tortas.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\Tortas\Tortas\obj\Debug\Tortas.exe
+c:\users\andres\documents\visual studio 2012\Projects\Tortas\Tortas\obj\Debug\Tortas.pdb

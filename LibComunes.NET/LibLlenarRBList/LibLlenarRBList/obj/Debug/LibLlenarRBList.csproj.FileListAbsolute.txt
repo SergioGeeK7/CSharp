@@ -1,0 +1,9 @@
+C:\tmp\LibLlenarRBList\LibLlenarRBList\bin\Debug\LibLlenarRBList.dll
+C:\tmp\LibLlenarRBList\LibLlenarRBList\bin\Debug\LibLlenarRBList.pdb
+C:\tmp\LibLlenarRBList\LibLlenarRBList\bin\Debug\LibConexionBD.dll
+C:\tmp\LibLlenarRBList\LibLlenarRBList\bin\Debug\LibParametros.dll
+C:\tmp\LibLlenarRBList\LibLlenarRBList\bin\Debug\LibConexionBD.pdb
+C:\tmp\LibLlenarRBList\LibLlenarRBList\bin\Debug\LibParametros.pdb
+C:\tmp\LibLlenarRBList\LibLlenarRBList\obj\Debug\LibLlenarRBList.dll
+C:\tmp\LibLlenarRBList\LibLlenarRBList\obj\Debug\LibLlenarRBList.pdb
+C:\tmp\LibLlenarRBList\LibLlenarRBList\obj\Debug\LibLlenarRBList.csprojResolveAssemblyReference.cache

@@ -1,0 +1,29 @@
+Datos entrada =>     		Datos de salida =>
+CC: decimal			VR_V: decimal
+TP: cedena("P","N")		VR_P:decimal
+TC: cadena("F","A")		CA: decimal
+PC: decimal			CE: decimal
+PA: Decimal			PDP:decimal
+Vol: Decimal
+
+MA:cadena ("N","C","E","G");
+
+
+	decimal CC,PC,PA,VOL,VR_V,VR_P,CA,CE,PDP;
+	cedena TP,TC,MA
+	PedirDatos(CC,TP,TC,PC,PA,VOL,MA);
+	CA = CalcularCA(TP,CC,TC,PC,PA,VOL) // analizar de que depende..costo almacenamiento
+	PDP = CalcularPDP(PA);
+	CE = CalcularCE(TP,TC,MA,CA);
+
+
+	VR_P= (cc+ca+ce) * PDP
+
+	si(TP=="P")
+		VR=VR*1.4;
+	sino
+		VR_V =VR_P *1.2;
+	finsi
+	
+	MostrarResultado(CA,PDP,CE,VR_P,VR_V);
+

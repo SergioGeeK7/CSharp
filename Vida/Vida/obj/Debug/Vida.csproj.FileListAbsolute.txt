@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2012\Projects\Vida\Vida\bin\Debug\Vida.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\Vida\Vida\obj\Debug\Vida.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\Vida\Vida\bin\Debug\Vida.exe
+c:\users\andres\documents\visual studio 2012\Projects\Vida\Vida\bin\Debug\Vida.pdb
+c:\users\andres\documents\visual studio 2012\Projects\Vida\Vida\obj\Debug\Vida.exe
+c:\users\andres\documents\visual studio 2012\Projects\Vida\Vida\obj\Debug\Vida.pdb

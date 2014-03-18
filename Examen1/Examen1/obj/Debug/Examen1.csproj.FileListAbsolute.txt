@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2012\Projects\Examen1\Examen1\bin\Debug\Examen1.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\Examen1\Examen1\bin\Debug\Examen1.exe
+c:\users\andres\documents\visual studio 2012\Projects\Examen1\Examen1\bin\Debug\Examen1.pdb
+c:\users\andres\documents\visual studio 2012\Projects\Examen1\Examen1\obj\Debug\Examen1.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\Examen1\Examen1\obj\Debug\Examen1.exe
+c:\users\andres\documents\visual studio 2012\Projects\Examen1\Examen1\obj\Debug\Examen1.pdb
