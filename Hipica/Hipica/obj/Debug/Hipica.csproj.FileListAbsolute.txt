@@ -1,0 +1,9 @@
+c:\users\andres\documents\visual studio 2012\Projects\Hipica\Hipica\bin\Debug\Hipica.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\Hipica\Hipica\bin\Debug\Hipica.exe
+c:\users\andres\documents\visual studio 2012\Projects\Hipica\Hipica\bin\Debug\Hipica.pdb
+c:\users\andres\documents\visual studio 2012\Projects\Hipica\Hipica\obj\Debug\Hipica.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\Hipica\Hipica\obj\Debug\Hipica.Form1.resources
+c:\users\andres\documents\visual studio 2012\Projects\Hipica\Hipica\obj\Debug\Hipica.Properties.Resources.resources
+c:\users\andres\documents\visual studio 2012\Projects\Hipica\Hipica\obj\Debug\Hipica.csproj.GenerateResource.Cache
+c:\users\andres\documents\visual studio 2012\Projects\Hipica\Hipica\obj\Debug\Hipica.exe
+c:\users\andres\documents\visual studio 2012\Projects\Hipica\Hipica\obj\Debug\Hipica.pdb

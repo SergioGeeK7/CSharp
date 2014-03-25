@@ -1,0 +1,64 @@
+.seccion{
+    float: left;
+    margin-right: 100px;
+    margin-bottom: 25px;
+}
+
+.codigo{
+    margin-bottom: 25px;
+}
+
+.contenedor{
+    width: 720px;
+    height: 0 auto;
+    margin: 0 auto;
+}
+
+.devengado{
+    width: 350px;
+    float: left;
+}
+
+.deduciones{
+    width: 350px;
+    float: left;
+    margin-left: 20px;
+}
+
+.fondo{
+    margin-top: 40px;
+    margin-bottom: 75px;
+}
+
+body{
+    background-image: url(fondo.png);
+}
+
+form input[type = "submit"]{
+    float: bottom;
+    margin-bottom: 25px;
+    margin-left: 360px;
+
+}
+ 
+ table{
+    margin: 10px;
+ }
+ 
+ table td{
+    width: 50px;
+ }
+ 
+ fieldset{
+    box-shadow: 10px 10px #999;
+    border: solid 1px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+ }
+ 
+ h1{
+    text-align: center;
+    text-shadow: 2px 1px #999;
+
+    -webkit-transform:rotate(-1deg);
+ }

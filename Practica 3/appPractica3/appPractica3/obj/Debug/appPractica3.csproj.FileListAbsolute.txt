@@ -1,0 +1,18 @@
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\appPractica3\appPractica3\bin\Debug\appPractica3.exe.config
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\appPractica3\appPractica3\bin\Debug\appPractica3.exe
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\appPractica3\appPractica3\bin\Debug\appPractica3.pdb
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\appPractica3\appPractica3\obj\Debug\appPractica3.csprojResolveAssemblyReference.cache
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\appPractica3\appPractica3\obj\Debug\appPractica3.frmHerencia.resources
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\appPractica3\appPractica3\obj\Debug\appPractica3.Properties.Resources.resources
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\appPractica3\appPractica3\obj\Debug\appPractica3.csproj.GenerateResource.Cache
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\appPractica3\appPractica3\obj\Debug\appPractica3.exe
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\appPractica3\appPractica3\obj\Debug\appPractica3.pdb
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\Practica 3\appPractica3\appPractica3\bin\Debug\appPractica3.exe.config
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\Practica 3\appPractica3\appPractica3\obj\Debug\appPractica3.exe
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\Practica 3\appPractica3\appPractica3\obj\Debug\appPractica3.pdb
+D:\Carmona Duvan\Practica 3\appPractica3\appPractica3\bin\Debug\appPractica3.exe.config
+D:\Carmona Duvan\Practica 3\appPractica3\appPractica3\obj\Debug\appPractica3.exe
+D:\Carmona Duvan\Practica 3\appPractica3\appPractica3\obj\Debug\appPractica3.pdb
+C:\Users\salak408\Desktop\Practica 3\appPractica3\appPractica3\bin\Debug\appPractica3.exe.config
+C:\Users\salak408\Desktop\Practica 3\appPractica3\appPractica3\obj\Debug\appPractica3.exe
+C:\Users\salak408\Desktop\Practica 3\appPractica3\appPractica3\obj\Debug\appPractica3.pdb

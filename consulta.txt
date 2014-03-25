@@ -1,0 +1,3 @@
+NumberFormatInfo . replace
+
+http://msdn.microsoft.com/en-us/library/fk49wtc1(v=vs.110).aspx

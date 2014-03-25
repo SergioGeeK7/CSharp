@@ -30,15 +30,6 @@
         {
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
-            this.tsbprimero = new System.Windows.Forms.ToolStripButton();
-            this.tsbanterior = new System.Windows.Forms.ToolStripButton();
-            this.tsbsiguiente = new System.Windows.Forms.ToolStripButton();
-            this.tsbultimo = new System.Windows.Forms.ToolStripButton();
-            this.tsbnuevo = new System.Windows.Forms.ToolStripButton();
-            this.tsbmodificar = new System.Windows.Forms.ToolStripButton();
-            this.tsbguardar = new System.Windows.Forms.ToolStripButton();
-            this.tsbeliminar = new System.Windows.Forms.ToolStripButton();
-            this.tsbbuscar = new System.Windows.Forms.ToolStripButton();
             this.label1 = new System.Windows.Forms.Label();
             this.txtidproducto = new System.Windows.Forms.TextBox();
             this.txtdescripcion = new System.Windows.Forms.TextBox();
@@ -53,9 +44,20 @@
             this.txtdepartamento = new System.Windows.Forms.Label();
             this.txtNotas = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.dgbproductos = new System.Windows.Forms.DataGridView();
+            this.dgvProductos = new System.Windows.Forms.DataGridView();
+            this.label7 = new System.Windows.Forms.Label();
+            this.tsbprimero = new System.Windows.Forms.ToolStripButton();
+            this.tsbanterior = new System.Windows.Forms.ToolStripButton();
+            this.tsbsiguiente = new System.Windows.Forms.ToolStripButton();
+            this.tsbultimo = new System.Windows.Forms.ToolStripButton();
+            this.tsbnuevo = new System.Windows.Forms.ToolStripButton();
+            this.tsbmodificar = new System.Windows.Forms.ToolStripButton();
+            this.tsbguardar = new System.Windows.Forms.ToolStripButton();
+            this.tsbcancelar = new System.Windows.Forms.ToolStripButton();
+            this.tsbeliminar = new System.Windows.Forms.ToolStripButton();
+            this.tsbbuscar = new System.Windows.Forms.ToolStripButton();
             this.toolStrip1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgbproductos)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvProductos)).BeginInit();
             this.SuspendLayout();
             // 
             // toolStrip1
@@ -69,6 +71,7 @@
             this.tsbnuevo,
             this.tsbmodificar,
             this.tsbguardar,
+            this.tsbcancelar,
             this.tsbeliminar,
             this.tsbbuscar});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
@@ -82,105 +85,14 @@
             this.toolStripSeparator1.Name = "toolStripSeparator1";
             this.toolStripSeparator1.Size = new System.Drawing.Size(6, 25);
             // 
-            // tsbprimero
-            // 
-            this.tsbprimero.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbprimero.Image = global::SistemaFacturacion.Properties.Resources.go_first;
-            this.tsbprimero.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsbprimero.Name = "tsbprimero";
-            this.tsbprimero.Size = new System.Drawing.Size(23, 22);
-            this.tsbprimero.Text = "toolStripButton1";
-            this.tsbprimero.ToolTipText = "Va al primer registro";
-            // 
-            // tsbanterior
-            // 
-            this.tsbanterior.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbanterior.Image = global::SistemaFacturacion.Properties.Resources.ss_back;
-            this.tsbanterior.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsbanterior.Name = "tsbanterior";
-            this.tsbanterior.Size = new System.Drawing.Size(23, 22);
-            this.tsbanterior.Text = "toolStripButton2";
-            this.tsbanterior.ToolTipText = "Va al anterior registro";
-            // 
-            // tsbsiguiente
-            // 
-            this.tsbsiguiente.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbsiguiente.Image = global::SistemaFacturacion.Properties.Resources.ss_forward;
-            this.tsbsiguiente.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsbsiguiente.Name = "tsbsiguiente";
-            this.tsbsiguiente.Size = new System.Drawing.Size(23, 22);
-            this.tsbsiguiente.Text = "toolStripButton3";
-            this.tsbsiguiente.ToolTipText = "Va al siguiente registro";
-            // 
-            // tsbultimo
-            // 
-            this.tsbultimo.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbultimo.Image = global::SistemaFacturacion.Properties.Resources.go_last;
-            this.tsbultimo.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsbultimo.Name = "tsbultimo";
-            this.tsbultimo.Size = new System.Drawing.Size(23, 22);
-            this.tsbultimo.Text = "toolStripButton4";
-            this.tsbultimo.ToolTipText = "Va al ultimo registro";
-            // 
-            // tsbnuevo
-            // 
-            this.tsbnuevo.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbnuevo.Image = global::SistemaFacturacion.Properties.Resources.archivo;
-            this.tsbnuevo.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsbnuevo.Name = "tsbnuevo";
-            this.tsbnuevo.Size = new System.Drawing.Size(23, 22);
-            this.tsbnuevo.Text = "toolStripButton5";
-            this.tsbnuevo.ToolTipText = "Crea un nuevo registro";
-            // 
-            // tsbmodificar
-            // 
-            this.tsbmodificar.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbmodificar.Image = global::SistemaFacturacion.Properties.Resources.edit_32;
-            this.tsbmodificar.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsbmodificar.Name = "tsbmodificar";
-            this.tsbmodificar.Size = new System.Drawing.Size(23, 22);
-            this.tsbmodificar.Text = "toolStripButton6";
-            this.tsbmodificar.ToolTipText = "Edita el registro actual";
-            // 
-            // tsbguardar
-            // 
-            this.tsbguardar.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbguardar.Enabled = false;
-            this.tsbguardar.Image = global::SistemaFacturacion.Properties.Resources.document_save;
-            this.tsbguardar.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsbguardar.Name = "tsbguardar";
-            this.tsbguardar.Size = new System.Drawing.Size(23, 22);
-            this.tsbguardar.Text = "toolStripButton7";
-            this.tsbguardar.ToolTipText = "Guarda los cambios";
-            // 
-            // tsbeliminar
-            // 
-            this.tsbeliminar.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbeliminar.Image = global::SistemaFacturacion.Properties.Resources.edit_delete;
-            this.tsbeliminar.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsbeliminar.Name = "tsbeliminar";
-            this.tsbeliminar.Size = new System.Drawing.Size(23, 22);
-            this.tsbeliminar.Text = "toolStripButton8";
-            this.tsbeliminar.ToolTipText = "Elimina el registro";
-            // 
-            // tsbbuscar
-            // 
-            this.tsbbuscar.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsbbuscar.Image = global::SistemaFacturacion.Properties.Resources.system_search;
-            this.tsbbuscar.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsbbuscar.Name = "tsbbuscar";
-            this.tsbbuscar.Size = new System.Drawing.Size(23, 22);
-            this.tsbbuscar.Text = "toolStripButton9";
-            this.tsbbuscar.ToolTipText = "Busca un registro";
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(12, 25);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(70, 13);
+            this.label1.Size = new System.Drawing.Size(77, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "ID Producto :";
+            this.label1.Text = "ID Producto * :";
             // 
             // txtidproducto
             // 
@@ -205,9 +117,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(12, 51);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(69, 13);
+            this.label2.Size = new System.Drawing.Size(76, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Descripcion: ";
+            this.label2.Text = "Descripcion *: ";
             // 
             // txtStock
             // 
@@ -223,11 +135,11 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(230, 77);
+            this.label3.Location = new System.Drawing.Point(221, 77);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(41, 13);
+            this.label3.Size = new System.Drawing.Size(48, 13);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Stock :";
+            this.label3.Text = "Stock  *:";
             // 
             // txtPrecio
             // 
@@ -243,9 +155,9 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(12, 77);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(43, 13);
+            this.label4.Size = new System.Drawing.Size(47, 13);
             this.label4.TabIndex = 7;
-            this.label4.Text = "Precio :";
+            this.label4.Text = "Precio *:";
             // 
             // cmbiva
             // 
@@ -263,9 +175,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(238, 103);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(24, 13);
+            this.label5.Size = new System.Drawing.Size(31, 13);
             this.label5.TabIndex = 11;
-            this.label5.Text = "IVA";
+            this.label5.Text = "IVA *";
             // 
             // cmbdepartamento
             // 
@@ -281,9 +193,9 @@
             this.txtdepartamento.AutoSize = true;
             this.txtdepartamento.Location = new System.Drawing.Point(5, 103);
             this.txtdepartamento.Name = "txtdepartamento";
-            this.txtdepartamento.Size = new System.Drawing.Size(74, 13);
+            this.txtdepartamento.Size = new System.Drawing.Size(81, 13);
             this.txtdepartamento.TabIndex = 9;
-            this.txtdepartamento.Text = "Departamento";
+            this.txtdepartamento.Text = "Departamento *";
             // 
             // txtNotas
             // 
@@ -305,23 +217,146 @@
             this.label6.TabIndex = 13;
             this.label6.Text = "Notas :";
             // 
-            // dgbproductos
+            // dgvProductos
             // 
-            this.dgbproductos.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.dgvProductos.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.dgbproductos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgbproductos.Location = new System.Drawing.Point(15, 257);
-            this.dgbproductos.Name = "dgbproductos";
-            this.dgbproductos.Size = new System.Drawing.Size(676, 291);
-            this.dgbproductos.TabIndex = 15;
+            this.dgvProductos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvProductos.Location = new System.Drawing.Point(8, 281);
+            this.dgvProductos.Name = "dgvProductos";
+            this.dgvProductos.ReadOnly = true;
+            this.dgvProductos.Size = new System.Drawing.Size(683, 267);
+            this.dgvProductos.TabIndex = 15;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(12, 265);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(110, 13);
+            this.label7.TabIndex = 16;
+            this.label7.Text = "* Campos Obligatorios";
+            // 
+            // tsbprimero
+            // 
+            this.tsbprimero.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsbprimero.Image = global::SistemaFacturacion.Properties.Resources.go_first;
+            this.tsbprimero.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsbprimero.Name = "tsbprimero";
+            this.tsbprimero.Size = new System.Drawing.Size(23, 22);
+            this.tsbprimero.Text = "toolStripButton1";
+            this.tsbprimero.ToolTipText = "Va al primer registro";
+            this.tsbprimero.Click += new System.EventHandler(this.tsbprimero_Click);
+            // 
+            // tsbanterior
+            // 
+            this.tsbanterior.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsbanterior.Image = global::SistemaFacturacion.Properties.Resources.ss_back;
+            this.tsbanterior.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsbanterior.Name = "tsbanterior";
+            this.tsbanterior.Size = new System.Drawing.Size(23, 22);
+            this.tsbanterior.Text = "toolStripButton2";
+            this.tsbanterior.ToolTipText = "Va al anterior registro";
+            this.tsbanterior.Click += new System.EventHandler(this.tsbanterior_Click);
+            // 
+            // tsbsiguiente
+            // 
+            this.tsbsiguiente.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsbsiguiente.Image = global::SistemaFacturacion.Properties.Resources.ss_forward;
+            this.tsbsiguiente.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsbsiguiente.Name = "tsbsiguiente";
+            this.tsbsiguiente.Size = new System.Drawing.Size(23, 22);
+            this.tsbsiguiente.Text = "toolStripButton3";
+            this.tsbsiguiente.ToolTipText = "Va al siguiente registro";
+            this.tsbsiguiente.Click += new System.EventHandler(this.tsbsiguiente_Click);
+            // 
+            // tsbultimo
+            // 
+            this.tsbultimo.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsbultimo.Image = global::SistemaFacturacion.Properties.Resources.go_last;
+            this.tsbultimo.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsbultimo.Name = "tsbultimo";
+            this.tsbultimo.Size = new System.Drawing.Size(23, 22);
+            this.tsbultimo.Text = "toolStripButton4";
+            this.tsbultimo.ToolTipText = "Va al ultimo registro";
+            this.tsbultimo.Click += new System.EventHandler(this.tsbultimo_Click);
+            // 
+            // tsbnuevo
+            // 
+            this.tsbnuevo.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsbnuevo.Image = global::SistemaFacturacion.Properties.Resources.archivo;
+            this.tsbnuevo.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsbnuevo.Name = "tsbnuevo";
+            this.tsbnuevo.Size = new System.Drawing.Size(23, 22);
+            this.tsbnuevo.Text = "toolStripButton5";
+            this.tsbnuevo.ToolTipText = "Crea un nuevo registro";
+            this.tsbnuevo.Click += new System.EventHandler(this.tsbnuevo_Click);
+            // 
+            // tsbmodificar
+            // 
+            this.tsbmodificar.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsbmodificar.Image = global::SistemaFacturacion.Properties.Resources.edit_32;
+            this.tsbmodificar.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsbmodificar.Name = "tsbmodificar";
+            this.tsbmodificar.Size = new System.Drawing.Size(23, 22);
+            this.tsbmodificar.Text = "toolStripButton6";
+            this.tsbmodificar.ToolTipText = "Edita el registro actual";
+            this.tsbmodificar.Click += new System.EventHandler(this.tsbmodificar_Click);
+            // 
+            // tsbguardar
+            // 
+            this.tsbguardar.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsbguardar.Enabled = false;
+            this.tsbguardar.Image = global::SistemaFacturacion.Properties.Resources.document_save;
+            this.tsbguardar.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsbguardar.Name = "tsbguardar";
+            this.tsbguardar.Size = new System.Drawing.Size(23, 22);
+            this.tsbguardar.Text = "toolStripButton7";
+            this.tsbguardar.ToolTipText = "Guarda los cambios";
+            this.tsbguardar.Click += new System.EventHandler(this.tsbguardar_Click);
+            // 
+            // tsbcancelar
+            // 
+            this.tsbcancelar.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsbcancelar.Enabled = false;
+            this.tsbcancelar.Image = global::SistemaFacturacion.Properties.Resources.cancelar_icono_4961_32;
+            this.tsbcancelar.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsbcancelar.Name = "tsbcancelar";
+            this.tsbcancelar.Size = new System.Drawing.Size(23, 22);
+            this.tsbcancelar.Text = "toolStripButton1";
+            this.tsbcancelar.ToolTipText = "Cancela los cambios realizados al registro actual";
+            this.tsbcancelar.Click += new System.EventHandler(this.tsbcancelar_Click);
+            // 
+            // tsbeliminar
+            // 
+            this.tsbeliminar.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsbeliminar.Image = global::SistemaFacturacion.Properties.Resources.edit_delete;
+            this.tsbeliminar.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsbeliminar.Name = "tsbeliminar";
+            this.tsbeliminar.Size = new System.Drawing.Size(23, 22);
+            this.tsbeliminar.Text = "toolStripButton8";
+            this.tsbeliminar.ToolTipText = "Elimina el registro";
+            this.tsbeliminar.Click += new System.EventHandler(this.tsbeliminar_Click);
+            // 
+            // tsbbuscar
+            // 
+            this.tsbbuscar.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsbbuscar.Image = global::SistemaFacturacion.Properties.Resources.system_search;
+            this.tsbbuscar.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsbbuscar.Name = "tsbbuscar";
+            this.tsbbuscar.Size = new System.Drawing.Size(23, 22);
+            this.tsbbuscar.Text = "toolStripButton9";
+            this.tsbbuscar.ToolTipText = "Busca un registro";
+            this.tsbbuscar.Click += new System.EventHandler(this.tsbbuscar_Click_1);
             // 
             // FormArticulos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(698, 552);
-            this.Controls.Add(this.dgbproductos);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.dgvProductos);
             this.Controls.Add(this.txtNotas);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.cmbiva);
@@ -342,7 +377,7 @@
             this.Load += new System.EventHandler(this.FormArticulos_Load);
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgbproductos)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvProductos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -375,6 +410,8 @@
         private System.Windows.Forms.Label txtdepartamento;
         private System.Windows.Forms.TextBox txtNotas;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.DataGridView dgbproductos;
+        private System.Windows.Forms.DataGridView dgvProductos;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.ToolStripButton tsbcancelar;
     }
 }

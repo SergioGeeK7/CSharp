@@ -1,0 +1,8 @@
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\LibFiguras\LibFiguras\obj\Debug\LibFiguras.csprojResolveAssemblyReference.cache
+C:\Users\salak408\Downloads\Practica 3\LibFiguras\LibFiguras\bin\Debug\LibFiguras.dll
+C:\Users\salak408\Downloads\Practica 3\LibFiguras\LibFiguras\bin\Debug\LibFiguras.pdb
+C:\Users\salak408\Downloads\Practica 3\LibFiguras\LibFiguras\bin\Debug\LibFiguraGeometrica.dll
+C:\Users\salak408\Downloads\Practica 3\LibFiguras\LibFiguras\bin\Debug\LibFiguraGeometrica.pdb
+C:\Users\salak408\Downloads\Practica 3\LibFiguras\LibFiguras\obj\Debug\LibFiguras.dll
+C:\Users\salak408\Downloads\Practica 3\LibFiguras\LibFiguras\obj\Debug\LibFiguras.pdb
+C:\Users\salak408\Downloads\Practica 3\LibFiguras\LibFiguras\obj\Debug\LibFiguras.csprojResolveAssemblyReference.cache

@@ -51,6 +51,7 @@
             this.txtusuario.Name = "txtusuario";
             this.txtusuario.Size = new System.Drawing.Size(132, 20);
             this.txtusuario.TabIndex = 1;
+            this.txtusuario.Text = "zulu";
             // 
             // txtclave
             // 
@@ -59,6 +60,7 @@
             this.txtclave.PasswordChar = '*';
             this.txtclave.Size = new System.Drawing.Size(132, 20);
             this.txtclave.TabIndex = 3;
+            this.txtclave.Text = "123";
             // 
             // label2
             // 
@@ -83,6 +85,7 @@
             // 
             // btncancelar
             // 
+            this.btncancelar.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btncancelar.Image = global::SistemaFacturacion.Properties.Resources.exit;
             this.btncancelar.Location = new System.Drawing.Point(121, 95);
             this.btncancelar.Name = "btncancelar";
@@ -95,8 +98,10 @@
             // 
             // FormLogin
             // 
+            this.AcceptButton = this.btnaceptar;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.btncancelar;
             this.ClientSize = new System.Drawing.Size(232, 179);
             this.Controls.Add(this.btncancelar);
             this.Controls.Add(this.btnaceptar);

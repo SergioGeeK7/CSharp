@@ -1,0 +1,23 @@
+T:\ArboledaCardona\Practica0\appPractica0\appPractica0\bin\Debug\appPractica0.exe.config
+T:\ArboledaCardona\Practica0\appPractica0\appPractica0\bin\Debug\appPractica0.exe
+T:\ArboledaCardona\Practica0\appPractica0\appPractica0\bin\Debug\appPractica0.pdb
+T:\ArboledaCardona\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.csprojResolveAssemblyReference.cache
+T:\ArboledaCardona\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.Form1.resources
+T:\ArboledaCardona\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.Properties.Resources.resources
+T:\ArboledaCardona\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.csproj.GenerateResource.Cache
+T:\ArboledaCardona\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.exe
+T:\ArboledaCardona\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.pdb
+C:\Users\salak401\Downloads\Nueva carpeta\Practica0\Practica0\appPractica0\appPractica0\bin\Debug\appPractica0.exe.config
+C:\Users\salak401\Downloads\Nueva carpeta\Practica0\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.exe
+C:\Users\salak401\Downloads\Nueva carpeta\Practica0\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.pdb
+C:\Users\salak408\Downloads\Practica0\appPractica0\appPractica0\bin\Debug\appPractica0.exe.config
+C:\Users\salak408\Downloads\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.exe
+C:\Users\salak408\Downloads\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.pdb
+C:\Users\salak408\Downloads\Practica0\appPractica0\appPractica0\bin\Debug\appPractica0.exe
+C:\Users\salak408\Downloads\Practica0\appPractica0\appPractica0\bin\Debug\appPractica0.pdb
+C:\Users\salak408\Downloads\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.csprojResolveAssemblyReference.cache
+C:\Users\salak408\Downloads\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.Form1.resources
+C:\Users\salak408\Downloads\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.Properties.Resources.resources
+C:\Users\salak408\Downloads\Practica0\appPractica0\appPractica0\obj\Debug\appPractica0.csproj.GenerateResource.Cache
+C:\Users\salak408\Downloads\Practica0\appPractica0\appPractica0\bin\Debug\libfigura.dll
+C:\Users\salak408\Downloads\Practica0\appPractica0\appPractica0\bin\Debug\libfigura.pdb

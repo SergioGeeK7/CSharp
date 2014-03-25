@@ -93,6 +93,16 @@ namespace SistemaFacturacion.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cancelar_icono_4961_32 {
+            get {
+                object obj = ResourceManager.GetObject("cancelar-icono-4961-32", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap document_save {
             get {
                 object obj = ResourceManager.GetObject("document-save", resourceCulture);
@@ -146,6 +156,16 @@ namespace SistemaFacturacion.Properties {
         internal static System.Drawing.Bitmap go_last {
             get {
                 object obj = ResourceManager.GetObject("go-last", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Places_network_server_database_icon {
+            get {
+                object obj = ResourceManager.GetObject("Places-network-server-database-icon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

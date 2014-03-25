@@ -1,0 +1,9 @@
+T:\ArboledaCardona\Practica0\libfigura\libfigura\bin\Debug\libfigura.dll
+T:\ArboledaCardona\Practica0\libfigura\libfigura\bin\Debug\libfigura.pdb
+T:\ArboledaCardona\Practica0\libfigura\libfigura\obj\Debug\libfigura.csprojResolveAssemblyReference.cache
+T:\ArboledaCardona\Practica0\libfigura\libfigura\obj\Debug\libfigura.dll
+T:\ArboledaCardona\Practica0\libfigura\libfigura\obj\Debug\libfigura.pdb
+C:\Users\salak408\Downloads\Practica0\libfigura\libfigura\bin\Debug\libfigura.dll
+C:\Users\salak408\Downloads\Practica0\libfigura\libfigura\bin\Debug\libfigura.pdb
+C:\Users\salak408\Downloads\Practica0\libfigura\libfigura\obj\Debug\libfigura.dll
+C:\Users\salak408\Downloads\Practica0\libfigura\libfigura\obj\Debug\libfigura.pdb

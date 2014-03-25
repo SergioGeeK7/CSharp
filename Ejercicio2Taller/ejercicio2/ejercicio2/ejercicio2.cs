@@ -19,7 +19,6 @@ namespace ejercicio2
         public ejercicio2()
         {
             InitializeComponent();
-            txtSalario.Text = "hellow";
         }
 
         private void btnTerminar_Click(object sender, EventArgs e)

@@ -1,0 +1,5 @@
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\Practica 3\LibFiguraGeometrica\LibFiguraGeometrica\bin\Debug\LibFiguraGeometrica.dll
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\Practica 3\LibFiguraGeometrica\LibFiguraGeometrica\bin\Debug\LibFiguraGeometrica.pdb
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\Practica 3\LibFiguraGeometrica\LibFiguraGeometrica\obj\Debug\LibFiguraGeometrica.csprojResolveAssemblyReference.cache
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\Practica 3\LibFiguraGeometrica\LibFiguraGeometrica\obj\Debug\LibFiguraGeometrica.dll
+C:\Users\Duvan\Tracing\Documents\Visual Studio 2012\Projects\Practica 3\LibFiguraGeometrica\LibFiguraGeometrica\obj\Debug\LibFiguraGeometrica.pdb

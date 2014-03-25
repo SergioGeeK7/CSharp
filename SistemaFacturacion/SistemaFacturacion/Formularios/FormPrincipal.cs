@@ -7,14 +7,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using SistemaFacturacion.Clases;
 
 namespace SistemaFacturacion.Formularios
 {
     public partial class FormPrincipal : Form
     {
+        private Usuario usuarioLogeado;
+
+      
+         
+        internal Usuario UsuarioLogeado
+        {
+            get { return usuarioLogeado; }
+            set { usuarioLogeado = value; }
+        }
+
+
         public FormPrincipal()
         {
             InitializeComponent();
+
         }
 
         private void consultaDeArticulosToolStripMenuItem_Click(object sender, EventArgs e)
@@ -22,6 +35,8 @@ namespace SistemaFacturacion.Formularios
             FormConsultaArticulos miForm = new FormConsultaArticulos();
             miForm.MdiParent = this;
             miForm.Show();
+
+            
 
         }
 
@@ -41,7 +56,18 @@ namespace SistemaFacturacion.Formularios
         {
             FormArticulos miForm = new FormArticulos();
             miForm.MdiParent = this;
+            miForm.UsuarioLogeado = usuarioLogeado;
             miForm.Show();
+        }
+
+        private void statusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            
+        }
+
+        private void FormPrincipal_Load(object sender, EventArgs e)
+        {
+            tssusuario.Text = usuarioLogeado.Nombres + " " + usuarioLogeado.Apellidos;
         }
     }
 }

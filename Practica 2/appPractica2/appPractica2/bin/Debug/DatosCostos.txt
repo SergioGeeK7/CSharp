@@ -1,0 +1,10 @@
+Dolar: 2000
+Carta1: 12.0
+Carta2: 10.5
+Carta3: 0.0
+Caja1_Norm: 15.75
+Caja1_Add: 9.5
+Caja2_Norm: 13.75
+Caja2_Add: 7.25
+Caja3_Norm: 7.0
+Caja3_Add: 4.5

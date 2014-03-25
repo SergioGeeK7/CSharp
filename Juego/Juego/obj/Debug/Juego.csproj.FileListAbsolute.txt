@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2012\Projects\Juego\Juego\bin\Debug\Juego.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\Juego\Juego\bin\Debug\Juego.exe
+c:\users\andres\documents\visual studio 2012\Projects\Juego\Juego\bin\Debug\Juego.pdb
+c:\users\andres\documents\visual studio 2012\Projects\Juego\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\Juego\Juego\obj\Debug\Juego.exe
+c:\users\andres\documents\visual studio 2012\Projects\Juego\Juego\obj\Debug\Juego.pdb

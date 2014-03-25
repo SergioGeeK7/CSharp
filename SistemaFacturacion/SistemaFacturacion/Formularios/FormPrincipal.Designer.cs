@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.archivoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.clientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.departamentosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -40,29 +39,20 @@
             this.consultasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.consultaDeArticulosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.consultaDeClientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.consultaDeFacturasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.movimientosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.nuevaFacturaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.anulacionFacturaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cambiosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.consultaDeFacturasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.acercaDeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.tssusuario = new System.Windows.Forms.ToolStripStatusLabel();
             this.menuStrip1.SuspendLayout();
+            this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.archivoToolStripMenuItem,
-            this.consultasToolStripMenuItem,
-            this.movimientosToolStripMenuItem,
-            this.ayudaToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(681, 24);
-            this.menuStrip1.TabIndex = 1;
-            this.menuStrip1.Text = "menuStrip1";
             // 
             // archivoToolStripMenuItem
             // 
@@ -144,6 +134,12 @@
             this.consultaDeClientesToolStripMenuItem.Size = new System.Drawing.Size(187, 22);
             this.consultaDeClientesToolStripMenuItem.Text = "Consulta de &Clientes";
             // 
+            // consultaDeFacturasToolStripMenuItem
+            // 
+            this.consultaDeFacturasToolStripMenuItem.Name = "consultaDeFacturasToolStripMenuItem";
+            this.consultaDeFacturasToolStripMenuItem.Size = new System.Drawing.Size(187, 22);
+            this.consultaDeFacturasToolStripMenuItem.Text = "Consulta de &Facturas";
+            // 
             // movimientosToolStripMenuItem
             // 
             this.movimientosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -172,12 +168,6 @@
             this.cambiosToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
             this.cambiosToolStripMenuItem.Text = "&Cambios";
             // 
-            // consultaDeFacturasToolStripMenuItem
-            // 
-            this.consultaDeFacturasToolStripMenuItem.Name = "consultaDeFacturasToolStripMenuItem";
-            this.consultaDeFacturasToolStripMenuItem.Size = new System.Drawing.Size(187, 22);
-            this.consultaDeFacturasToolStripMenuItem.Text = "Consulta de &Facturas";
-            // 
             // ayudaToolStripMenuItem
             // 
             this.ayudaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -190,14 +180,43 @@
             // ayudaToolStripMenuItem1
             // 
             this.ayudaToolStripMenuItem1.Name = "ayudaToolStripMenuItem1";
-            this.ayudaToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.ayudaToolStripMenuItem1.Size = new System.Drawing.Size(138, 22);
             this.ayudaToolStripMenuItem1.Text = "A&yuda";
             // 
             // acercaDeToolStripMenuItem
             // 
             this.acercaDeToolStripMenuItem.Name = "acercaDeToolStripMenuItem";
-            this.acercaDeToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.acercaDeToolStripMenuItem.Size = new System.Drawing.Size(138, 22);
             this.acercaDeToolStripMenuItem.Text = "&Acerca de ...";
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.archivoToolStripMenuItem,
+            this.consultasToolStripMenuItem,
+            this.movimientosToolStripMenuItem,
+            this.ayudaToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(774, 24);
+            this.menuStrip1.TabIndex = 1;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // statusStrip1
+            // 
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.tssusuario});
+            this.statusStrip1.Location = new System.Drawing.Point(0, 546);
+            this.statusStrip1.Name = "statusStrip1";
+            this.statusStrip1.Size = new System.Drawing.Size(774, 22);
+            this.statusStrip1.TabIndex = 3;
+            this.statusStrip1.Text = "statusStrip1";
+            this.statusStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.statusStrip1_ItemClicked);
+            // 
+            // tssusuario
+            // 
+            this.tssusuario.Name = "tssusuario";
+            this.tssusuario.Size = new System.Drawing.Size(0, 17);
             // 
             // FormPrincipal
             // 
@@ -205,7 +224,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::SistemaFacturacion.Properties.Resources.wallpaper_743122;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(681, 640);
+            this.ClientSize = new System.Drawing.Size(774, 568);
+            this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
@@ -213,8 +233,11 @@
             this.Text = "Sistema Facturacion";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormPrincipal_FormClosing);
+            this.Load += new System.EventHandler(this.FormPrincipal_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            this.statusStrip1.ResumeLayout(false);
+            this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -222,7 +245,6 @@
 
         #endregion
 
-        private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem archivoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem clientesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem departamentosToolStripMenuItem;
@@ -242,5 +264,9 @@
         private System.Windows.Forms.ToolStripMenuItem ayudaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ayudaToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem acercaDeToolStripMenuItem;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.StatusStrip statusStrip1;
+        private System.Windows.Forms.ToolStripStatusLabel tssusuario;
+
     }
 }

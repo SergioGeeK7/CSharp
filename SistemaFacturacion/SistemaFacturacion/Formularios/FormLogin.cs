@@ -52,11 +52,15 @@ namespace SistemaFacturacion
 
             // MessageBox.Show("Fuck yeah.......","You Get It");
 
+            Usuario usuarioLogeado = Datos.GetUsuario(txtusuario.Text); 
+            // getUsuario busca en la base de datos el usuario y lo convierte en un objeto usuario
+
             FormPrincipal miPrincipal = new FormPrincipal();
             this.Hide(); // no puedo cerrarlo porque es el que tiene el hilo de ejecucion
+            miPrincipal.UsuarioLogeado = usuarioLogeado; // para saber quien es el usuario actual
             miPrincipal.Show();
 
-
+            
 
 
 

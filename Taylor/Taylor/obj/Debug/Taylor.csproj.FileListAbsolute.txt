@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2012\Projects\Taylor\Taylor\bin\Debug\Taylor.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\Taylor\Taylor\bin\Debug\Taylor.exe
+c:\users\andres\documents\visual studio 2012\Projects\Taylor\Taylor\bin\Debug\Taylor.pdb
+c:\users\andres\documents\visual studio 2012\Projects\Taylor\Taylor\obj\Debug\Taylor.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\Taylor\Taylor\obj\Debug\Taylor.exe
+c:\users\andres\documents\visual studio 2012\Projects\Taylor\Taylor\obj\Debug\Taylor.pdb

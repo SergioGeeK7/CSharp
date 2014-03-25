@@ -1,0 +1,7 @@
+https://code.google.com/p/java-best-practices-course/wiki/equalsHashcode
+
+http://msdn.microsoft.com/es-es/library/system.object.gethashcode(v=vs.110).aspx
+
+
+
+private abstract bool lala (); // PFFFSSSS JAJAJA

@@ -8,7 +8,7 @@ namespace ClassLibrary1
 {
     public class clsPractica1
     {
-        #region "Atributos"
+        #region "Atributos private variables"
 
         private int intseccion;
         private double dblfondoemp;
@@ -25,13 +25,18 @@ namespace ClassLibrary1
 
         private double dblporcincordnoche;
         private double dblporcincorddomdia, dblporcincorddomnoche;
+
         private double dblporcincextorddia, dblporcincextordnoche;
         private double dblporcincextdomdia, dblporcincextdomnoche;
 
         private double dblsmlv;
         private double dblvrsubstte;
         private double dblvrhoraadm, dblvrhoraprod;
-        
+
+
+        // missing variables
+        private double dblhorasbasnoche;
+        private double dblhorasbasdomnoche;
         #endregion
 
 
@@ -55,14 +60,14 @@ namespace ClassLibrary1
 
         dblporcretsalud = 0.04;
         dblporcretpension = 0.04;
-        dblporcretparaf = 0.02;
+        dblporcretparaf = 0.05;
 
         dblporcincordnoche = 1.35;
         dblporcincorddomdia = 1.75; dblporcincorddomnoche = 2.1;
-        dblporcincextorddia = 1.25; dblporcincextordnoche = 1.75;
-        dblporcincextdomdia = 2.0; dblporcincextdomnoche = 2.5;
+        dblporcincextorddia = 1.25; dblporcincextordnoche = 2.0;
+        dblporcincextdomdia = 1.75; dblporcincextdomnoche = 2.5;
 
-        dblsmlv = 616000.0;
+        dblsmlv = 616000.0; // como es double siempre se le agrega el .0 ya que en una operacion se comeria los decimales
         dblvrsubstte = 72000.0;
         dblvrhoraadm = 10000.0; dblvrhoraprod = 8350.0;
         strerror = string.Empty;
@@ -71,11 +76,11 @@ namespace ClassLibrary1
 
         #endregion
 
+        // no todo atributo esta asociado a una propieadad
 
 
 
-
-        #region "Propiedades"
+        #region "Propiedades public metodos"
 
         public int Seccion 
         { set {intseccion=value;} }
@@ -120,7 +125,7 @@ namespace ClassLibrary1
 
         public double subsidio_tte { get { return dblsubstte; } }
 
-        public double subsidio_tte { get { return dblsalud; } }
+        public double salud { get { return dblsalud; } }
 
         public double pension { get { return dblpension; } }
 
@@ -133,7 +138,152 @@ namespace ClassLibrary1
         #endregion
 
 
+        #region "Metodos privados"
 
+        private bool validar() {
+
+            if (intseccion != 1 && intseccion != 2)
+            {
+                strerror = "seccion no valida";
+                return false;
+            }
+
+            if (dblfondoemp < 0)
+            {
+                 strerror = "valor de fondo de empleados no valido";
+                return false;
+            }
+
+
+            // ordinarias
+            if (dblhorasbasdia<0)
+            {
+                strerror = "cantidad de horas basicas diurnas no valida";
+                return false;
+                
+            }
+
+            //
+            if (dblhorasbasnoche<0)
+            {
+                strerror = "cantidad de horas basicas nocturnas no valida";
+                return false;
+
+            }
+
+            if (dblhorasbasdomdia<0)
+            {
+                strerror = "cantidad de horas dominicales o festivas valida";
+                return false;
+
+            }
+
+            if (dblhorasbasdomnoche<0)
+            {
+                strerror = "cantidad de horas basicas dominicales o festivas no valida";
+                return false;
+
+            }
+
+            if (dblhorasextorddia<0)
+            {
+                strerror = "cantidad de horas extra ordinarias diurnas no valida";
+                return false;
+
+            }
+
+            if (dblhorasextordnoche<0)
+            {
+                strerror = "cantidad de horas extra nocturnas no valida";
+                return false;
+
+            }
+
+            if (dblhorasextdomdia<0)
+            {
+                strerror = "cantidad de horas extra dominicales o festivas no valida";
+                return false;
+
+            }
+
+            if (dblhorasextdomnoche<0)
+            {
+                strerror = "cantidad de horas extra dominicales no valida";
+                return false;
+
+            }
+
+
+            
+
+
+            return true;
+        }
+
+
+
+
+        public bool Calcular() {
+
+            try
+            {
+                if (!validar())
+                {
+                    return false;
+                }
+
+
+                if (intseccion == 1) // Administrativa
+                {
+                    dblvrhora = dblvrhoraadm;
+
+                }
+                else {
+
+                    dblvrhora = dblvrhoraprod;
+                }
+
+                dblbruto = (dblhorasbasdia * dblvrhora) + (dblhorasbasnoche *dblvrhora * dblporcincordnoche)+ 
+                (dblhorasbasdia * dblvrhora * dblporcincorddomdia) + (dblhorasbasdomnoche * dblvrhora * dblporcincextdomnoche) +
+                (dblhorasextorddia * dblvrhora * dblporcincextorddia) + (dblhorasextordnoche * dblvrhora * dblporcincextordnoche) +
+                (dblhorasextdomdia * dblvrhora * dblporcincextdomdia) + (dblhorasextdomnoche * dblvrhora * dblporcincextdomnoche);
+
+
+                // subsidio de transporte
+
+                if (dblbruto <= (2.0*dblsmlv)) // no hay que poner cero porque ya esta inicializado en ello... si no entra ps
+                {
+                    dblsubstte = dblvrsubstte;
+                }
+
+                // deducibles
+                dblsalud = dblbruto * dblporcretsalud;
+                dblpension = dblbruto * dblporcretpension;
+                dblparaf = dblbruto * dblporcretparaf;
+
+
+
+                dblneto = dblbruto + dblsubstte - dblsalud - dblpension - dblparaf - dblfondoemp;
+
+
+
+                return true;
+            }
+            catch (Exception ex)
+            {
+                strerror = ex.Message;
+                return false;
+                
+            }
+        
+        
+        }
+
+
+
+
+
+        #endregion
 
 
 

@@ -1,0 +1,5 @@
+c:\users\andres\documents\visual studio 2012\Projects\libInvitaciones\libInvitaciones\bin\Debug\libInvitaciones.dll
+c:\users\andres\documents\visual studio 2012\Projects\libInvitaciones\libInvitaciones\bin\Debug\libInvitaciones.pdb
+c:\users\andres\documents\visual studio 2012\Projects\libInvitaciones\libInvitaciones\obj\Debug\libInvitaciones.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\libInvitaciones\libInvitaciones\obj\Debug\libInvitaciones.dll
+c:\users\andres\documents\visual studio 2012\Projects\libInvitaciones\libInvitaciones\obj\Debug\libInvitaciones.pdb

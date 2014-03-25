@@ -1,0 +1,11 @@
+c:\users\andres\documents\visual studio 2012\Projects\InvitacionesForm\InvitacionesForm\bin\Debug\InvitacionesForm.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\InvitacionesForm\InvitacionesForm\bin\Debug\InvitacionesForm.exe
+c:\users\andres\documents\visual studio 2012\Projects\InvitacionesForm\InvitacionesForm\bin\Debug\InvitacionesForm.pdb
+c:\users\andres\documents\visual studio 2012\Projects\InvitacionesForm\InvitacionesForm\obj\Debug\InvitacionesForm.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\InvitacionesForm\InvitacionesForm\obj\Debug\InvitacionesForm.Form1.resources
+c:\users\andres\documents\visual studio 2012\Projects\InvitacionesForm\InvitacionesForm\obj\Debug\InvitacionesForm.Properties.Resources.resources
+c:\users\andres\documents\visual studio 2012\Projects\InvitacionesForm\InvitacionesForm\obj\Debug\InvitacionesForm.csproj.GenerateResource.Cache
+c:\users\andres\documents\visual studio 2012\Projects\InvitacionesForm\InvitacionesForm\obj\Debug\InvitacionesForm.exe
+c:\users\andres\documents\visual studio 2012\Projects\InvitacionesForm\InvitacionesForm\obj\Debug\InvitacionesForm.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\InvitacionesForm\InvitacionesForm\bin\Debug\libInvitaciones.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\InvitacionesForm\InvitacionesForm\bin\Debug\libInvitaciones.pdb

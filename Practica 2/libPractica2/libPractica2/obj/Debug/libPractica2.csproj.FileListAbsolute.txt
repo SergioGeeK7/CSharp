@@ -1,0 +1,5 @@
+C:\Users\salak408\Downloads\Practica 2\libPractica2\libPractica2\bin\Debug\libPractica2.dll
+C:\Users\salak408\Downloads\Practica 2\libPractica2\libPractica2\bin\Debug\libPractica2.pdb
+C:\Users\salak408\Downloads\Practica 2\libPractica2\libPractica2\obj\Debug\libPractica2.csprojResolveAssemblyReference.cache
+C:\Users\salak408\Downloads\Practica 2\libPractica2\libPractica2\obj\Debug\libPractica2.dll
+C:\Users\salak408\Downloads\Practica 2\libPractica2\libPractica2\obj\Debug\libPractica2.pdb
