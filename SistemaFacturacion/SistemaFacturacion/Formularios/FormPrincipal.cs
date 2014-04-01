@@ -69,5 +69,23 @@ namespace SistemaFacturacion.Formularios
         {
             tssusuario.Text = usuarioLogeado.Nombres + " " + usuarioLogeado.Apellidos;
         }
+
+        private void clientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            FormClientes miForm = new FormClientes();
+            miForm.MdiParent = this;
+            miForm.UsuarioLogeado = usuarioLogeado;
+            miForm.Show();
+
+        }
+
+        private void nuevaFacturaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormFactura miForm = new FormFactura();
+            miForm.MdiParent = this;
+            
+            miForm.Show();
+        }
     }
 }

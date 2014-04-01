@@ -15,7 +15,7 @@ namespace SistemaFacturacion.Formularios
     public partial class FormConsultaArticulos : Form
     {
         LlenarGrids llenarGrids = new LlenarGrids("Parametros.xml"); // necesita el usuario
-
+        
         LlenarCombos llenarCombos = new LlenarCombos("Parametros.xml");
 
         public FormConsultaArticulos()

@@ -1,0 +1,9 @@
+c:\users\andres\documents\visual studio 2012\Projects\EscribirEnArchivo_Append\EscribirEnArchivo_Append\bin\Debug\EscribirEnArchivo_Append.exe.config
+c:\users\andres\documents\visual studio 2012\Projects\EscribirEnArchivo_Append\EscribirEnArchivo_Append\bin\Debug\EscribirEnArchivo_Append.exe
+c:\users\andres\documents\visual studio 2012\Projects\EscribirEnArchivo_Append\EscribirEnArchivo_Append\bin\Debug\EscribirEnArchivo_Append.pdb
+c:\users\andres\documents\visual studio 2012\Projects\EscribirEnArchivo_Append\EscribirEnArchivo_Append\obj\Debug\EscribirEnArchivo_Append.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\EscribirEnArchivo_Append\EscribirEnArchivo_Append\obj\Debug\EscribirEnArchivo_Append.Form1.resources
+c:\users\andres\documents\visual studio 2012\Projects\EscribirEnArchivo_Append\EscribirEnArchivo_Append\obj\Debug\EscribirEnArchivo_Append.Properties.Resources.resources
+c:\users\andres\documents\visual studio 2012\Projects\EscribirEnArchivo_Append\EscribirEnArchivo_Append\obj\Debug\EscribirEnArchivo_Append.csproj.GenerateResource.Cache
+c:\users\andres\documents\visual studio 2012\Projects\EscribirEnArchivo_Append\EscribirEnArchivo_Append\obj\Debug\EscribirEnArchivo_Append.exe
+c:\users\andres\documents\visual studio 2012\Projects\EscribirEnArchivo_Append\EscribirEnArchivo_Append\obj\Debug\EscribirEnArchivo_Append.pdb

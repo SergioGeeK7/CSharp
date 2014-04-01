@@ -19,3 +19,6 @@ C:\Users\andres\Documents\Visual Studio 2012\Projects\SistemaFacturacion\Sistema
 C:\Users\andres\Documents\Visual Studio 2012\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Formularios.FormPrincipal.resources
 C:\Users\andres\Documents\Visual Studio 2012\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Formularios.FormArticulos.resources
 C:\Users\andres\Documents\Visual Studio 2012\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Formularios.FormBusquedaProductos.resources
+C:\Users\andres\Documents\Visual Studio 2012\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Formularios.FormClientes.resources
+C:\Users\andres\Documents\Visual Studio 2012\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Formularios.FormBusquedaClientes.resources
+C:\Users\andres\Documents\Visual Studio 2012\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Formularios.FormFactura.resources

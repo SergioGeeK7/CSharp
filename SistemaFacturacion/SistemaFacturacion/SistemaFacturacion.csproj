@@ -53,15 +53,37 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clases\Cliente.cs" />
     <Compile Include="Clases\Datos.cs" />
+    <Compile Include="Clases\DetalleFacturaTmp.cs" />
+    <Compile Include="Clases\DSFacturacion.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSFacturacion.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Clases\Producto.cs" />
     <Compile Include="Clases\Usuario.cs" />
     <Compile Include="Clases\Utilidades.cs" />
+    <Compile Include="FacturacionDataSet.cs">
+      <DependentUpon>FacturacionDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FacturacionDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FacturacionDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Formularios\FormArticulos.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formularios\FormArticulos.Designer.cs">
       <DependentUpon>FormArticulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormBusquedaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormBusquedaClientes.Designer.cs">
+      <DependentUpon>FormBusquedaClientes.cs</DependentUpon>
     </Compile>
     <Compile Include="Formularios\FormBusquedaProductos.cs">
       <SubType>Form</SubType>
@@ -69,11 +91,23 @@
     <Compile Include="Formularios\FormBusquedaProductos.Designer.cs">
       <DependentUpon>FormBusquedaProductos.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\FormClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormClientes.Designer.cs">
+      <DependentUpon>FormClientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formularios\FormConsultaArticulos.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formularios\FormConsultaArticulos.Designer.cs">
       <DependentUpon>FormConsultaArticulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormFactura.Designer.cs">
+      <DependentUpon>FormFactura.cs</DependentUpon>
     </Compile>
     <Compile Include="Formularios\FormLogin.cs">
       <SubType>Form</SubType>
@@ -92,11 +126,20 @@
     <EmbeddedResource Include="Formularios\FormArticulos.resx">
       <DependentUpon>FormArticulos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormBusquedaClientes.resx">
+      <DependentUpon>FormBusquedaClientes.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\FormBusquedaProductos.resx">
       <DependentUpon>FormBusquedaProductos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormClientes.resx">
+      <DependentUpon>FormClientes.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\FormConsultaArticulos.resx">
       <DependentUpon>FormConsultaArticulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormFactura.resx">
+      <DependentUpon>FormFactura.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\FormLogin.resx">
       <DependentUpon>FormLogin.cs</DependentUpon>
@@ -114,6 +157,28 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="Clases\DSFacturacion.xsc">
+      <DependentUpon>DSFacturacion.xsd</DependentUpon>
+    </None>
+    <None Include="Clases\DSFacturacion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSFacturacion.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Clases\DSFacturacion.xss">
+      <DependentUpon>DSFacturacion.xsd</DependentUpon>
+    </None>
+    <None Include="FacturacionDataSet.xsc">
+      <DependentUpon>FacturacionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="FacturacionDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FacturacionDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="FacturacionDataSet.xss">
+      <DependentUpon>FacturacionDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
