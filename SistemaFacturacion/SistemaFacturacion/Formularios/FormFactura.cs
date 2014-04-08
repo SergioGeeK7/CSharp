@@ -91,5 +91,80 @@ namespace SistemaFacturacion.Formularios
         {
             this.Close();
         }
+
+        private void btneliminar_Click(object sender, EventArgs e)
+        {
+
+            //Object idLinea = dataGridViewDetalle.SelectedRows[0].Cells[0].Value;
+
+
+
+
+            DialogResult respuesta = MessageBox.Show("Esta segudo de borrar el registro actual",
+                "Confirmacion", MessageBoxButtons.YesNo);
+
+            if (respuesta == DialogResult.No) return;
+
+            DataGridViewSelectedRowCollection idLinea = dataGridViewDetalle.SelectedRows;
+            DetalleFacturaTmp.EliminarProducto(idLinea);
+            MessageBox.Show("La Eliminacion ha sido un exito", "Confirmacion");
+            ActualizarTotales();
+
+
+
+
+
+            // dgvdatagridproductos.SelectedRows[0].Cells[0].Value
+
+        }
+
+        private void btneliminartodo_Click(object sender, EventArgs e)
+        {
+
+            DialogResult respuesta = MessageBox.Show("Esta segudo de borrar el registro actual",
+                "Confirmacion", MessageBoxButtons.YesNo);
+
+            if (respuesta == DialogResult.No) return;
+
+            DetalleFacturaTmp.EliminarTodo();
+            MessageBox.Show("La Eliminacion ha sido un exito", "Confirmacion");
+            ActualizarTotales();
+
+        }
+
+        private void btnaceptar_Click(object sender, EventArgs e)
+        {
+
+            if (DetalleFacturaTmp.SumaValor() != 0)
+            {
+
+                DialogResult respuesta = MessageBox.Show("Esta seguro que desea guardar los cambios ?",
+                    "Confirmacion", MessageBoxButtons.YesNo);
+
+                if (respuesta == DialogResult.No) return;
+
+
+                string idCliente = cmbcliente.SelectedValue.ToString();
+
+
+                DetalleFacturaTmp.NuevaFactura(idCliente, dateTimePickerFecha.Value);
+                DetalleFacturaTmp.EliminarTodo();
+                this.Close();
+
+                MessageBox.Show("Factura guardada exitosamente");
+
+
+
+            }
+            else
+            {
+                MessageBox.Show("No hay nada para facturar no se realizara ningun cambio","Confirmacion");
+                this.Close();
+            }
+
+
+            
+            
+        }
     }
 }

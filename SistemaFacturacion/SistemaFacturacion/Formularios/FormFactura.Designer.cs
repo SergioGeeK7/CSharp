@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
             this.label1 = new System.Windows.Forms.Label();
             this.dateTimePickerFecha = new System.Windows.Forms.DateTimePicker();
             this.label2 = new System.Windows.Forms.Label();
@@ -49,6 +49,12 @@
             this.btneliminar = new System.Windows.Forms.Button();
             this.btneliminartodo = new System.Windows.Forms.Button();
             this.dataGridViewDetalle = new System.Windows.Forms.DataGridView();
+            this.IDLinea = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.iDProductoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.descripcionDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.precioDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.cantidadDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.valorDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.detalleFacturaTmpConValorBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.detalleFacturaTmpConValorTableAdapter = new SistemaFacturacion.FacturacionDataSetTableAdapters.DetalleFacturaTmpConValorTableAdapter();
             this.btncancelar = new System.Windows.Forms.Button();
@@ -56,12 +62,6 @@
             this.label5 = new System.Windows.Forms.Label();
             this.txttotalvalor = new System.Windows.Forms.TextBox();
             this.txttotalcantidad = new System.Windows.Forms.TextBox();
-            this.IDLinea = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.iDProductoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.descripcionDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.precioDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.cantidadDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.valorDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.clienteNombresFullBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.facturacionDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.productoBindingSource)).BeginInit();
@@ -182,6 +182,7 @@
             this.btneliminar.TabIndex = 9;
             this.btneliminar.Text = "Eliminar";
             this.btneliminar.UseVisualStyleBackColor = true;
+            this.btneliminar.Click += new System.EventHandler(this.btneliminar_Click);
             // 
             // btneliminartodo
             // 
@@ -191,6 +192,7 @@
             this.btneliminartodo.TabIndex = 10;
             this.btneliminartodo.Text = "Eliminar Todo";
             this.btneliminartodo.UseVisualStyleBackColor = true;
+            this.btneliminartodo.Click += new System.EventHandler(this.btneliminartodo_Click);
             // 
             // dataGridViewDetalle
             // 
@@ -212,75 +214,8 @@
             this.dataGridViewDetalle.Location = new System.Drawing.Point(14, 123);
             this.dataGridViewDetalle.Name = "dataGridViewDetalle";
             this.dataGridViewDetalle.ReadOnly = true;
-            this.dataGridViewDetalle.Size = new System.Drawing.Size(637, 283);
+            this.dataGridViewDetalle.Size = new System.Drawing.Size(648, 362);
             this.dataGridViewDetalle.TabIndex = 11;
-            // 
-            // detalleFacturaTmpConValorBindingSource
-            // 
-            this.detalleFacturaTmpConValorBindingSource.DataMember = "DetalleFacturaTmpConValor";
-            this.detalleFacturaTmpConValorBindingSource.DataSource = this.facturacionDataSet;
-            // 
-            // detalleFacturaTmpConValorTableAdapter
-            // 
-            this.detalleFacturaTmpConValorTableAdapter.ClearBeforeFill = true;
-            // 
-            // btncancelar
-            // 
-            this.btncancelar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btncancelar.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btncancelar.Image = global::SistemaFacturacion.Properties.Resources.exit;
-            this.btncancelar.Location = new System.Drawing.Point(574, 426);
-            this.btncancelar.Name = "btncancelar";
-            this.btncancelar.Size = new System.Drawing.Size(77, 66);
-            this.btncancelar.TabIndex = 12;
-            this.btncancelar.Text = "Cancelar";
-            this.btncancelar.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.btncancelar.UseVisualStyleBackColor = true;
-            this.btncancelar.Click += new System.EventHandler(this.btncancelar_Click);
-            // 
-            // btnaceptar
-            // 
-            this.btnaceptar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnaceptar.Image = global::SistemaFacturacion.Properties.Resources.aceptar2;
-            this.btnaceptar.Location = new System.Drawing.Point(494, 426);
-            this.btnaceptar.Name = "btnaceptar";
-            this.btnaceptar.Size = new System.Drawing.Size(79, 66);
-            this.btnaceptar.TabIndex = 13;
-            this.btnaceptar.Text = "Aceptar";
-            this.btnaceptar.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.btnaceptar.UseVisualStyleBackColor = true;
-            // 
-            // label5
-            // 
-            this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(395, 409);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(42, 13);
-            this.label5.TabIndex = 14;
-            this.label5.Text = "Totales";
-            // 
-            // txttotalvalor
-            // 
-            this.txttotalvalor.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.txttotalvalor.Enabled = false;
-            this.txttotalvalor.Location = new System.Drawing.Point(550, 406);
-            this.txttotalvalor.Name = "txttotalvalor";
-            this.txttotalvalor.Size = new System.Drawing.Size(101, 20);
-            this.txttotalvalor.TabIndex = 15;
-            this.txttotalvalor.Text = "0";
-            this.txttotalvalor.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            // 
-            // txttotalcantidad
-            // 
-            this.txttotalcantidad.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.txttotalcantidad.Enabled = false;
-            this.txttotalcantidad.Location = new System.Drawing.Point(443, 406);
-            this.txttotalcantidad.Name = "txttotalcantidad";
-            this.txttotalcantidad.Size = new System.Drawing.Size(101, 20);
-            this.txttotalcantidad.TabIndex = 16;
-            this.txttotalcantidad.Text = "0";
-            this.txttotalcantidad.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // IDLinea
             // 
@@ -307,10 +242,10 @@
             // precioDataGridViewTextBoxColumn
             // 
             this.precioDataGridViewTextBoxColumn.DataPropertyName = "Precio";
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight;
-            dataGridViewCellStyle1.Format = "C2";
-            dataGridViewCellStyle1.NullValue = null;
-            this.precioDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight;
+            dataGridViewCellStyle10.Format = "C2";
+            dataGridViewCellStyle10.NullValue = null;
+            this.precioDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle10;
             this.precioDataGridViewTextBoxColumn.HeaderText = "Precio";
             this.precioDataGridViewTextBoxColumn.Name = "precioDataGridViewTextBoxColumn";
             this.precioDataGridViewTextBoxColumn.ReadOnly = true;
@@ -318,10 +253,10 @@
             // cantidadDataGridViewTextBoxColumn
             // 
             this.cantidadDataGridViewTextBoxColumn.DataPropertyName = "Cantidad";
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight;
-            dataGridViewCellStyle2.Format = "N2";
-            dataGridViewCellStyle2.NullValue = null;
-            this.cantidadDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight;
+            dataGridViewCellStyle11.Format = "N2";
+            dataGridViewCellStyle11.NullValue = null;
+            this.cantidadDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle11;
             this.cantidadDataGridViewTextBoxColumn.HeaderText = "Cantidad";
             this.cantidadDataGridViewTextBoxColumn.Name = "cantidadDataGridViewTextBoxColumn";
             this.cantidadDataGridViewTextBoxColumn.ReadOnly = true;
@@ -329,19 +264,87 @@
             // valorDataGridViewTextBoxColumn
             // 
             this.valorDataGridViewTextBoxColumn.DataPropertyName = "Valor";
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight;
-            dataGridViewCellStyle3.Format = "C2";
-            dataGridViewCellStyle3.NullValue = null;
-            this.valorDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight;
+            dataGridViewCellStyle12.Format = "C2";
+            dataGridViewCellStyle12.NullValue = null;
+            this.valorDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle12;
             this.valorDataGridViewTextBoxColumn.HeaderText = "Valor";
             this.valorDataGridViewTextBoxColumn.Name = "valorDataGridViewTextBoxColumn";
             this.valorDataGridViewTextBoxColumn.ReadOnly = true;
+            // 
+            // detalleFacturaTmpConValorBindingSource
+            // 
+            this.detalleFacturaTmpConValorBindingSource.DataMember = "DetalleFacturaTmpConValor";
+            this.detalleFacturaTmpConValorBindingSource.DataSource = this.facturacionDataSet;
+            // 
+            // detalleFacturaTmpConValorTableAdapter
+            // 
+            this.detalleFacturaTmpConValorTableAdapter.ClearBeforeFill = true;
+            // 
+            // btncancelar
+            // 
+            this.btncancelar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btncancelar.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btncancelar.Image = global::SistemaFacturacion.Properties.Resources.exit;
+            this.btncancelar.Location = new System.Drawing.Point(585, 505);
+            this.btncancelar.Name = "btncancelar";
+            this.btncancelar.Size = new System.Drawing.Size(77, 66);
+            this.btncancelar.TabIndex = 12;
+            this.btncancelar.Text = "Cancelar";
+            this.btncancelar.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btncancelar.UseVisualStyleBackColor = true;
+            this.btncancelar.Click += new System.EventHandler(this.btncancelar_Click);
+            // 
+            // btnaceptar
+            // 
+            this.btnaceptar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnaceptar.Image = global::SistemaFacturacion.Properties.Resources.aceptar2;
+            this.btnaceptar.Location = new System.Drawing.Point(505, 505);
+            this.btnaceptar.Name = "btnaceptar";
+            this.btnaceptar.Size = new System.Drawing.Size(79, 66);
+            this.btnaceptar.TabIndex = 13;
+            this.btnaceptar.Text = "Aceptar";
+            this.btnaceptar.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnaceptar.UseVisualStyleBackColor = true;
+            this.btnaceptar.Click += new System.EventHandler(this.btnaceptar_Click);
+            // 
+            // label5
+            // 
+            this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(406, 488);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(42, 13);
+            this.label5.TabIndex = 14;
+            this.label5.Text = "Totales";
+            // 
+            // txttotalvalor
+            // 
+            this.txttotalvalor.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.txttotalvalor.Enabled = false;
+            this.txttotalvalor.Location = new System.Drawing.Point(561, 485);
+            this.txttotalvalor.Name = "txttotalvalor";
+            this.txttotalvalor.Size = new System.Drawing.Size(101, 20);
+            this.txttotalvalor.TabIndex = 15;
+            this.txttotalvalor.Text = "0";
+            this.txttotalvalor.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            // 
+            // txttotalcantidad
+            // 
+            this.txttotalcantidad.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.txttotalcantidad.Enabled = false;
+            this.txttotalcantidad.Location = new System.Drawing.Point(454, 485);
+            this.txttotalcantidad.Name = "txttotalcantidad";
+            this.txttotalcantidad.Size = new System.Drawing.Size(101, 20);
+            this.txttotalcantidad.TabIndex = 16;
+            this.txttotalcantidad.Text = "0";
+            this.txttotalcantidad.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // FormFactura
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(654, 493);
+            this.ClientSize = new System.Drawing.Size(665, 572);
             this.Controls.Add(this.txttotalcantidad);
             this.Controls.Add(this.txttotalvalor);
             this.Controls.Add(this.label5);

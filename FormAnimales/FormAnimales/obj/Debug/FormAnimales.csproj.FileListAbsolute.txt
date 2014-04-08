@@ -1,0 +1,12 @@
+c:\users\salak401\documents\visual studio 2012\Projects\FormAnimales\FormAnimales\bin\Debug\FormAnimales.exe.config
+C:\Users\andres\Documents\Visual Studio 2012\Projects\FormAnimales\FormAnimales\bin\Debug\FormAnimales.exe.config
+C:\Users\andres\Documents\Visual Studio 2012\Projects\FormAnimales\FormAnimales\bin\Debug\FormAnimales.exe
+C:\Users\andres\Documents\Visual Studio 2012\Projects\FormAnimales\FormAnimales\bin\Debug\FormAnimales.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\FormAnimales\FormAnimales\bin\Debug\Animales.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\FormAnimales\FormAnimales\bin\Debug\Animales.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\FormAnimales\FormAnimales\obj\Debug\FormAnimales.csprojResolveAssemblyReference.cache
+C:\Users\andres\Documents\Visual Studio 2012\Projects\FormAnimales\FormAnimales\obj\Debug\FormAnimales.Form1.resources
+C:\Users\andres\Documents\Visual Studio 2012\Projects\FormAnimales\FormAnimales\obj\Debug\FormAnimales.Properties.Resources.resources
+C:\Users\andres\Documents\Visual Studio 2012\Projects\FormAnimales\FormAnimales\obj\Debug\FormAnimales.csproj.GenerateResource.Cache
+C:\Users\andres\Documents\Visual Studio 2012\Projects\FormAnimales\FormAnimales\obj\Debug\FormAnimales.exe
+C:\Users\andres\Documents\Visual Studio 2012\Projects\FormAnimales\FormAnimales\obj\Debug\FormAnimales.pdb

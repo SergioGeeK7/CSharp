@@ -1,0 +1,10 @@
+nombre:batman;anos:5;sexo:M;numeroDientes:10;Ladrido:Guaw Guaw Guaw Guaw Guaw Guaw Guaw Guaw Guaw 
+nombre:primata;anos:0;sexo:F;numeroDientes:6;Maulla:Miau Miau Miau Miau Miau Miau Miau Miau 
+
+nombre:terza;anos:0;sexo:F;Longitud Alas:10;Maxima Altura1
+nombre:miaguila;anos:2;sexo:M;Longitud Alas:20;Maxima Altura2
+nombre:miaguila;anos:0;sexo:M;Longitud Alas:20;Maxima Altura2
+nombre:mipaloma;anos:0;sexo:F;Longitud Alas:10;Maxima Altura:1
+nombre:mipaloma;anos:0;sexo:F;Longitud Alas:10;Maxima Altura:1
+nombre:mipaloma;anos:20;sexo:F;Longitud Alas:10;Maxima Altura:1
+nombre:mipaloma;anos:30;sexo:F;Longitud Alas:10;Maxima Altura:1

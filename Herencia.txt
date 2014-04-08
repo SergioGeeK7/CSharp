@@ -1,0 +1,138 @@
+public abstract Mamiferos parir();
+public abstract Comida amamantar();
+
+http://www.botanical-online.com/animales/caracteristicas_aves.htm
+
+atributos muy particulares a un perro
+
+perro ladra, no todos los mamiferos ladran...
+
+
+private int edad; private int npatas
+private string nombres
+
+public string ladrar... "Guau Guau !!!"; String raza; 
+public string maullar ... "miau miau"
+public string volar ...."wiii wiii"
+
+
+
+
+El perro por ser un mamífero, cumple con la descripción de mamífero; sin embargo, es más específico por cuanto el perro ladra y no todos los mamíferos ladran
+
+
+----------------------------------------------------------
+
+cuando no hay caracteristicas notables, hacer esto (or, OR!!!) Dejar el constructor vacio
+
+Existen marcadas diferencias entre las características físicas y los hábitos de vida del águila y la paloma. El águila, es ave rapaz diurna de entre 80 y 90 centímetros de altura, de vista muy aguda, fuerte musculatura y vuelo rapidísimo. Con sus fuertes garras y poderoso pico, ataca ferozmente a sus presas, principalmente otras aves, reptiles, y pequeños mamíferos entre otras.
+
+La paloma, mucho más pequeña, es ave domesticada que provino de la paloma silvestre y de la que hay muchas variedades o castas, que se diferencian principalmente por el tamaño o el color.
+
+Informacion sobre el Aguila Real
+http://www.botanical-online.com/animales/caracteristicas_aves.htm
+------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public double GetRandomNumber(double minimum, double maximum)
+{ 
+    Random random = new Random();
+    return random.NextDouble() * (maximum - minimum) + minimum;
+}
+
+
+
+
+

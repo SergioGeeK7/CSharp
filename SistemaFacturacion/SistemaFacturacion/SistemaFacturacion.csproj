@@ -56,6 +56,10 @@
     <Compile Include="Clases\Cliente.cs" />
     <Compile Include="Clases\Datos.cs" />
     <Compile Include="Clases\DetalleFacturaTmp.cs" />
+    <Compile Include="Clases\DSFacturacion.cs">
+      <DependentUpon>DSFacturacion.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Clases\DSFacturacion.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
