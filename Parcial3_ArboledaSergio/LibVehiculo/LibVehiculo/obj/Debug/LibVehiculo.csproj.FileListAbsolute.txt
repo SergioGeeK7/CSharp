@@ -1,0 +1,4 @@
+c:\users\salak408\documents\visual studio 2012\Projects\LibVehiculo\LibVehiculo\bin\Debug\LibVehiculo.dll
+c:\users\salak408\documents\visual studio 2012\Projects\LibVehiculo\LibVehiculo\bin\Debug\LibVehiculo.pdb
+c:\users\salak408\documents\visual studio 2012\Projects\LibVehiculo\LibVehiculo\obj\Debug\LibVehiculo.dll
+c:\users\salak408\documents\visual studio 2012\Projects\LibVehiculo\LibVehiculo\obj\Debug\LibVehiculo.pdb

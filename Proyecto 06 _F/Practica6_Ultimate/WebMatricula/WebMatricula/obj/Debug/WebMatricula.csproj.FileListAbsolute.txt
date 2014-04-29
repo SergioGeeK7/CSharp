@@ -1,0 +1,50 @@
+H:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\WebMatricula.dll
+H:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\WebMatricula.pdb
+H:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.csprojResolveAssemblyReference.cache
+H:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.dll
+H:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.pdb
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.csprojResolveAssemblyReference.cache
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.dll
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\WebMatricula.dll
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\WebMatricula.pdb
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\LibConexionBD.dll
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\LibLlenarCombos.dll
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\LibLlenarGrids.dll
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\LibLlenarRBList.dll
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\LibParametros.dll
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\LibConexionBD.pdb
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\LibLlenarCombos.pdb
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\LibLlenarGrids.pdb
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\LibLlenarRBList.pdb
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\bin\LibParametros.pdb
+D:\PreparSistemas\DesarrolloSoftware\RodriguezSantiago_Practica6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.pdb
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\bin\WebMatricula.dll
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\bin\WebMatricula.pdb
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibConexionBD.dll
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibLlenarCombos.dll
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibLlenarGrids.dll
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibLlenarRBList.dll
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibParametros.dll
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibConexionBD.pdb
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibLlenarCombos.pdb
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibLlenarGrids.pdb
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibLlenarRBList.pdb
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibParametros.pdb
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\obj\Debug\WebMatricula.csprojResolveAssemblyReference.cache
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\obj\Debug\WebMatricula.dll
+C:\Users\andres\Documents\lala\Practica6_Ultimate\WebMatricula\WebMatricula\obj\Debug\WebMatricula.pdb
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\bin\WebMatricula.dll
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\bin\WebMatricula.pdb
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibConexionBD.dll
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibLlenarCombos.dll
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibLlenarGrids.dll
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibLlenarRBList.dll
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibParametros.dll
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibConexionBD.pdb
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibLlenarCombos.pdb
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibLlenarGrids.pdb
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibLlenarRBList.pdb
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\bin\LibParametros.pdb
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\obj\Debug\WebMatricula.csprojResolveAssemblyReference.cache
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\obj\Debug\WebMatricula.dll
+C:\Users\salak401\Downloads\Proyecto 06 _F\Practica6_Ultimate\WebMatricula\WebMatricula\obj\Debug\WebMatricula.pdb

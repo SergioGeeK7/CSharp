@@ -1,0 +1,9 @@
+c:\users\salak408\documents\visual studio 2012\Projects\LibLancha\LibLancha\obj\Debug\LibLancha.csprojResolveAssemblyReference.cache
+c:\users\salak408\documents\visual studio 2012\Projects\LibLancha\LibLancha\bin\Debug\LibLancha.dll
+c:\users\salak408\documents\visual studio 2012\Projects\LibLancha\LibLancha\bin\Debug\LibLancha.pdb
+c:\users\salak408\documents\visual studio 2012\Projects\LibLancha\LibLancha\bin\Debug\LibAcuaticos.dll
+c:\users\salak408\documents\visual studio 2012\Projects\LibLancha\LibLancha\bin\Debug\LibVehiculo.dll
+c:\users\salak408\documents\visual studio 2012\Projects\LibLancha\LibLancha\bin\Debug\LibAcuaticos.pdb
+c:\users\salak408\documents\visual studio 2012\Projects\LibLancha\LibLancha\bin\Debug\LibVehiculo.pdb
+c:\users\salak408\documents\visual studio 2012\Projects\LibLancha\LibLancha\obj\Debug\LibLancha.dll
+c:\users\salak408\documents\visual studio 2012\Projects\LibLancha\LibLancha\obj\Debug\LibLancha.pdb

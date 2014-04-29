@@ -21,9 +21,5 @@ namespace Animales
             return new Random().NextDouble()*(MaxAltura - 0.3) + 0.3;
         }
 
-
-
-
-
     }
 }

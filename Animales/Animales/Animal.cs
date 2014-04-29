@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -36,5 +37,19 @@ namespace Animales
         {
             return String.Format("nombre:{0};anos:{1};sexo:{2}", nombre, anos, sexo);
         }
+
+        //public abstract void Save();
+
+        public void Save()
+        {
+            using (StreamWriter w = File.AppendText("output.txt"))
+            {
+                w.WriteLine(ToString());
+            }
+
+        }
+
+
+
     }
 }

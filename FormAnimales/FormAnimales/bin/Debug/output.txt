@@ -1,0 +1,13 @@
+nombre:batman;anos:7;sexo:M;numeroDientes:10;Ladrido:Guaw 
+nombre:miperro2;anos:0;sexo:M;numeroDientes:10;Ladrido:Guaw Guaw Guaw Guaw Guaw Guaw Guaw Guaw 
+nombre:miperro3;anos:0;sexo:M;numeroDientes:10;Ladrido:Guaw Guaw 
+nombre:toni;anos:3;sexo:M;numeroDientes:10;Ladrido:Guaw Guaw 
+nombre:primata;anos:4;sexo:F;numeroDientes:6;Maulla:Miau 
+nombre:tofi;anos:3;sexo:F;numeroDientes:6;Maulla:Miau Miau Miau Miau 
+nombre:mipalomita;anos:1;sexo:F;Longitud Alas:10;Maxima Altura:1
+nombre:terminator;anos:5;sexo:M;Longitud Alas:20;Maxima Altura:2
+nombre:mipaloma7;anos:7;sexo:F;Longitud Alas:10;Maxima Altura:1
+nombre:goku;anos:9;sexo:M;numeroDientes:10;Ladrido:Guaw Guaw Guaw 
+nombre:primata2;anos:8;sexo:F;numeroDientes:6;Maulla:Miau Miau Miau Miau 
+nombre:mipaloma5;anos:7;sexo:F;Longitud Alas:10;Maxima Altura:1
+nombre:miaguilitathemexico;anos:2014;sexo:M;Longitud Alas:20;Maxima Altura:2

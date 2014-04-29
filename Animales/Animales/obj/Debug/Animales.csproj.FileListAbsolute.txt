@@ -2,3 +2,7 @@ C:\Users\andres\Documents\Visual Studio 2012\Projects\Animales\Animales\bin\Debu
 C:\Users\andres\Documents\Visual Studio 2012\Projects\Animales\Animales\bin\Debug\Animales.pdb
 C:\Users\andres\Documents\Visual Studio 2012\Projects\Animales\Animales\obj\Debug\Animales.dll
 C:\Users\andres\Documents\Visual Studio 2012\Projects\Animales\Animales\obj\Debug\Animales.pdb
+E:\Animales\Animales\obj\Debug\Animales.dll
+E:\Animales\Animales\obj\Debug\Animales.pdb
+E:\Animales\Animales\bin\Debug\Animales.dll
+E:\Animales\Animales\bin\Debug\Animales.pdb

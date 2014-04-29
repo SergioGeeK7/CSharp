@@ -1,0 +1,7 @@
+c:\users\salak408\documents\visual studio 2012\Projects\LibAcuaticos\LibAcuaticos\bin\Debug\LibAcuaticos.dll
+c:\users\salak408\documents\visual studio 2012\Projects\LibAcuaticos\LibAcuaticos\bin\Debug\LibAcuaticos.pdb
+c:\users\salak408\documents\visual studio 2012\Projects\LibAcuaticos\LibAcuaticos\bin\Debug\LibVehiculo.dll
+c:\users\salak408\documents\visual studio 2012\Projects\LibAcuaticos\LibAcuaticos\bin\Debug\LibVehiculo.pdb
+c:\users\salak408\documents\visual studio 2012\Projects\LibAcuaticos\LibAcuaticos\obj\Debug\LibAcuaticos.csprojResolveAssemblyReference.cache
+c:\users\salak408\documents\visual studio 2012\Projects\LibAcuaticos\LibAcuaticos\obj\Debug\LibAcuaticos.dll
+c:\users\salak408\documents\visual studio 2012\Projects\LibAcuaticos\LibAcuaticos\obj\Debug\LibAcuaticos.pdb

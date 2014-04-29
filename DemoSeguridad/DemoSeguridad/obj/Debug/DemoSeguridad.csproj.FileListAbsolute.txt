@@ -1,0 +1,5 @@
+c:\users\andres\documents\visual studio 2012\Projects\DemoSeguridad\DemoSeguridad\bin\DemoSeguridad.dll
+c:\users\andres\documents\visual studio 2012\Projects\DemoSeguridad\DemoSeguridad\bin\DemoSeguridad.pdb
+c:\users\andres\documents\visual studio 2012\Projects\DemoSeguridad\DemoSeguridad\obj\Debug\DemoSeguridad.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2012\Projects\DemoSeguridad\DemoSeguridad\obj\Debug\DemoSeguridad.dll
+c:\users\andres\documents\visual studio 2012\Projects\DemoSeguridad\DemoSeguridad\obj\Debug\DemoSeguridad.pdb

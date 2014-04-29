@@ -32,8 +32,9 @@ namespace FormAnimales
         {
 
             if (!Validar()) return;
-
-            try
+           // using (StreamWriter w = File.AppendText("output.txt"))
+          
+                try
             {
                
                 Animal animal;
@@ -45,12 +46,13 @@ namespace FormAnimales
                 else animal = new Aguila(txtnombre.Text, Convert.ToInt32(txtanos.Text), "M");
 
 
-                using (StreamWriter w = File.AppendText("log.txt"))
+               
                 {
-                    w.Write(animal + "\n");
+                    // w.WriteLine(animal);
+                    animal.Save();
                 }
 
-
+          
 
               
 
@@ -109,6 +111,11 @@ namespace FormAnimales
 
             return true;
 
+        }
+
+        private void btnguardar_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

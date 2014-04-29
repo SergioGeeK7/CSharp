@@ -1,0 +1,9 @@
+﻿Hola, <%UserName%>
+
+Su nueva contraseña es :
+
+<%Password%>
+
+No olvide cambiarla por una human password
+
+Att. Soporte Tecnico

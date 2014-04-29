@@ -1,0 +1,5 @@
+Nombre Vehiculo:milancha;Kilometros Por Hora:1;Nombre del motor:mimotor;Kilometros Recorridos:5
+Nombre Vehiculo:milancha2;Kilometros Por Hora:2;Nombre del motor:mimotor2;Kilometros Recorridos:10
+Nombre Vehiculo:milancha4;Kilometros Por Hora:3;Nombre del motor:mimotor4;Kilometros Recorridos:30
+Nombre Vehiculo:milancha5;Kilometros Por Hora:3;Nombre del motor:zuzuki;Kilometros Recorridos:15
+Nombre Vehiculo:milancha6;Kilometros Por Hora:4;Nombre del motor:kawasaki;Kilometros Recorridos:20
