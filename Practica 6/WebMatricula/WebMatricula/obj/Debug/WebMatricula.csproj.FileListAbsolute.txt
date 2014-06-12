@@ -1,0 +1,55 @@
+T:\Practica 6\WebMatricula\WebMatricula\bin\WebMatricula.dll
+T:\Practica 6\WebMatricula\WebMatricula\bin\WebMatricula.pdb
+T:\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.csprojResolveAssemblyReference.cache
+T:\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.dll
+T:\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.pdb
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\WebMatricula.dll
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\WebMatricula.pdb
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.csprojResolveAssemblyReference.cache
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.dll
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.pdb
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarCombos.dll
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarGrids.dll
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibConexionBD.dll
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibParametros.dll
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarCombos.pdb
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarGrids.pdb
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibConexionBD.pdb
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibParametros.pdb
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarRBList.dll
+E:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarRBList.pdb
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\WebMatricula.dll
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\WebMatricula.pdb
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibConexionBD.dll
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarCombos.dll
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarGrids.dll
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarRBList.dll
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibParametros.dll
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibConexionBD.pdb
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarCombos.pdb
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarGrids.pdb
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarRBList.pdb
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\bin\LibParametros.pdb
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.csprojResolveAssemblyReference.cache
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.dll
+D:\Carmona Duvan\Desarrollo de Software Empresarial\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.pdb
+C:\Users\salak408\Downloads\Practica 6\WebMatricula\WebMatricula\bin\WebMatricula.dll
+C:\Users\salak408\Downloads\Practica 6\WebMatricula\WebMatricula\bin\WebMatricula.pdb
+C:\Users\salak408\Downloads\Practica 6\WebMatricula\WebMatricula\bin\LibConexionBD.pdb
+C:\Users\salak408\Downloads\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarCombos.pdb
+C:\Users\salak408\Downloads\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarGrids.pdb
+C:\Users\salak408\Downloads\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarRBList.pdb
+C:\Users\salak408\Downloads\Practica 6\WebMatricula\WebMatricula\bin\LibParametros.pdb
+C:\Users\salak408\Downloads\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.csprojResolveAssemblyReference.cache
+C:\Users\salak408\Downloads\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.dll
+C:\Users\salak408\Downloads\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Practica 6\WebMatricula\WebMatricula\bin\WebMatricula.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Practica 6\WebMatricula\WebMatricula\bin\WebMatricula.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Practica 6\WebMatricula\WebMatricula\bin\LibConexionBD.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarCombos.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarGrids.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Practica 6\WebMatricula\WebMatricula\bin\LibLlenarRBList.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Practica 6\WebMatricula\WebMatricula\bin\LibParametros.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.csprojResolveAssemblyReference.cache
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Practica 6\WebMatricula\WebMatricula\obj\Debug\WebMatricula.pdb

@@ -1,0 +1,11 @@
+1.presentacion
+2.negocio
+3.datos
+nivel == cantidad de hardware correran la aplicacion
+
+mvc
+Vista == loque se muestra al usuario GUI
+Modelo == logica de negocio y la db
+Controller == Acciones queresponden acciones al usuario
+
+Cluster == la db esta almacenada en barios servidores a la vez

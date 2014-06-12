@@ -1,0 +1,22 @@
+string strCarnet  = session["carnet"].ToString();
+clsConexionBD objcnx =new clsConexcionBD();
+objcnx.SQL = "EXEC USP_Estudiante_Buscar_Imprimir'" +strcarnet + "'; ";
+objcnx.NombreTabla = "RptInforme";
+if(!objcnx.LlenarDataset(false))
+return;
+
+Datasetdts = new DataSet();
+dts = objcnx.MiDataSet;
+objcnx  =null;
+
+string strDireccion = AppDomain.CurrentDomain.BaseDirectory + "Estudiante_Impresion.xml";
+
+dts.WriteXmlSchema(strDireccion);
+
+rptEstudiante myDataReport = new rptEstudiante();
+
+myDataReport.SetDataSource(dts);
+
+this.crvVerInforme.ReportSource = myDataReport;
+this.crvVerInforme.ShowFirstPage();
+

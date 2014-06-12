@@ -1,0 +1,104 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="frmPrincipal.master.cs" Inherits="WebMatricula.frmPrincipal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 98%;
+            border: 3px solid #000080;
+        }
+        .auto-style2 {
+            text-align: center;
+        }
+        .auto-style3 {
+            width: 145px;
+            height: 63px;
+        }
+        .auto-style4 {
+            width: 100%;
+            background-color: #003366;
+        }
+        .auto-style5 {
+            color: #FFFFFF;
+            font-size: xx-large;
+        }
+        .auto-style6 {
+            text-align: center;
+            height: 58px;
+        }
+        .auto-style7 {
+            width: 100%;
+            height: 41px;
+            background-color: #E4E4E4;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+       
+        <table align="center" class="auto-style1">
+            <tr>
+                <td class="auto-style2" style="width: 25%">
+                    <img class="auto-style3" src="Imagenes/LOGOITM.JPG" /></td>
+                <td class="auto-style2">
+                    <asp:ContentPlaceHolder ID="Encabezado" runat="server">
+                        <table align="center" class="auto-style4">
+                            <tr>
+                                <td class="auto-style5"><strong>Sistema De Informacion Academica</strong></td>
+                            </tr>
+                        </table>
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style6">
+                    <asp:ContentPlaceHolder ID="Menu" runat="server">
+                        <table class="auto-style7">
+                            <tr>
+                                <td>
+                                    <asp:TreeView ID="trvMenuPpal" runat="server" ExpandDepth="0" ShowLines="True">
+                                        <HoverNodeStyle BackColor="#FF3300" BorderColor="#CCFF33" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Comic Sans MS" Font-Size="10pt" ForeColor="#0066FF" />
+                                        <LeafNodeStyle HorizontalPadding="12px" />
+                                        <Nodes>
+                                            <asp:TreeNode NavigateUrl="~/frmInicio.aspx" Text="Inicio" Value="mnuInicio"></asp:TreeNode>
+                                            <asp:TreeNode Text="Estudiante" Value="mnuEstudiante">
+                                                <asp:TreeNode Text="Asesoria" Value="opcAsesoria">
+                                                    <asp:TreeNode NavigateUrl="~/frmMatricula.aspx" Text="Matrícula" Value="opcMatricula"></asp:TreeNode>
+                                                </asp:TreeNode>
+                                                <asp:TreeNode NavigateUrl="~/frmEstudiante.aspx" Text="Ingreso" Value="opcIngreso"></asp:TreeNode>
+                                            </asp:TreeNode>
+                                            <asp:TreeNode Text="Maestros" Value="mnuMaestros">
+                                                <asp:TreeNode NavigateUrl="~/frmFacultad.aspx" Text="facultad" Value="opcfacultad"></asp:TreeNode>
+                                                <asp:TreeNode NavigateUrl="~/frmPrograma.aspx" Text="Programa" Value="opcPrograma"></asp:TreeNode>
+                                                <asp:TreeNode NavigateUrl="~/frmAsignatura.aspx" Text="Asignatura" Value="opcAsignatura"></asp:TreeNode>
+                                                <asp:TreeNode NavigateUrl="~/frmPeriodo.aspx" Text="Periodo" Value="opcPeriodo"></asp:TreeNode>
+                                            </asp:TreeNode>
+                                        </Nodes>
+                                    </asp:TreeView>
+                                </td>
+                            </tr>
+                        </table>
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td class="auto-style6">
+                    <asp:ContentPlaceHolder ID="Cuerpo" runat="server">
+                        <asp:ScriptManager ID="ScriptManager1" runat="server">
+                        </asp:ScriptManager>
+                        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                        </asp:UpdatePanel>
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+       
+    </div>
+    </form>
+</body>
+</html>

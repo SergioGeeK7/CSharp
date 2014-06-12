@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Parametros>
+  <Servidor>SALAK408-8</Servidor>
+  <BaseDatos>BDMatricula</BaseDatos>
+  <Usuario>usrPepito</Usuario>
+  <Clave>yayirobe1989</Clave>
+  <SeguridadIntegrada>Si</SeguridadIntegrada>
+</Parametros>

@@ -1,0 +1,4 @@
+E:\Dllo Sw 2014-1\Prog_Avanz\Practicas\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.dll
+E:\Dllo Sw 2014-1\Prog_Avanz\Practicas\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.pdb
+E:\Dllo Sw 2014-1\Prog_Avanz\Practicas\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.dll
+E:\Dllo Sw 2014-1\Prog_Avanz\Practicas\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.pdb

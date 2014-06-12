@@ -1,0 +1,133 @@
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\Q.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\Q.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\LibConexionBD.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\LibParametros.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\Newtonsoft.Json.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\System.Net.Http.Formatting.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\System.Web.Http.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\System.Web.Http.WebHost.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\LibConexionBD.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\LibParametros.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\Newtonsoft.Json.xml
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\System.Net.Http.Formatting.xml
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\System.Web.Http.xml
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\System.Web.Http.WebHost.xml
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\obj\Debug\Q.csprojResolveAssemblyReference.cache
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\obj\Debug\Q.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\obj\Debug\Q.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\LibLlenarGrids.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\Q\Q\bin\LibLlenarGrids.pdb
+C:\Users\salak401\Desktop\capy\Q\Q\bin\Q.dll
+C:\Users\salak401\Desktop\capy\Q\Q\bin\Q.pdb
+C:\Users\salak401\Desktop\capy\Q\Q\bin\Newtonsoft.Json.dll
+C:\Users\salak401\Desktop\capy\Q\Q\bin\System.Net.Http.Formatting.dll
+C:\Users\salak401\Desktop\capy\Q\Q\bin\System.Web.Http.dll
+C:\Users\salak401\Desktop\capy\Q\Q\bin\System.Web.Http.WebHost.dll
+C:\Users\salak401\Desktop\capy\Q\Q\bin\LibConexionBD.pdb
+C:\Users\salak401\Desktop\capy\Q\Q\bin\LibLlenarGrids.pdb
+C:\Users\salak401\Desktop\capy\Q\Q\bin\LibParametros.pdb
+C:\Users\salak401\Desktop\capy\Q\Q\bin\Newtonsoft.Json.xml
+C:\Users\salak401\Desktop\capy\Q\Q\bin\System.Net.Http.Formatting.xml
+C:\Users\salak401\Desktop\capy\Q\Q\bin\System.Web.Http.xml
+C:\Users\salak401\Desktop\capy\Q\Q\bin\System.Web.Http.WebHost.xml
+C:\Users\salak401\Desktop\capy\Q\Q\obj\Debug\Q.csprojResolveAssemblyReference.cache
+C:\Users\salak401\Desktop\capy\Q\Q\obj\Debug\Q.dll
+C:\Users\salak401\Desktop\capy\Q\Q\obj\Debug\Q.pdb
+C:\Users\salak408\Desktop\capy - copia\Q\Q\bin\Q.dll
+C:\Users\salak408\Desktop\capy - copia\Q\Q\bin\Q.pdb
+C:\Users\salak408\Desktop\capy - copia\Q\Q\bin\Newtonsoft.Json.dll
+C:\Users\salak408\Desktop\capy - copia\Q\Q\bin\System.Net.Http.Formatting.dll
+C:\Users\salak408\Desktop\capy - copia\Q\Q\bin\System.Web.Http.dll
+C:\Users\salak408\Desktop\capy - copia\Q\Q\bin\System.Web.Http.WebHost.dll
+C:\Users\salak408\Desktop\capy - copia\Q\Q\bin\LibConexionBD.pdb
+C:\Users\salak408\Desktop\capy - copia\Q\Q\bin\LibLlenarGrids.pdb
+C:\Users\salak408\Desktop\capy - copia\Q\Q\bin\LibParametros.pdb
+C:\Users\salak408\Desktop\capy - copia\Q\Q\bin\Newtonsoft.Json.xml
+C:\Users\salak408\Desktop\capy - copia\Q\Q\bin\System.Net.Http.Formatting.xml
+C:\Users\salak408\Desktop\capy - copia\Q\Q\bin\System.Web.Http.xml
+C:\Users\salak408\Desktop\capy - copia\Q\Q\bin\System.Web.Http.WebHost.xml
+C:\Users\salak408\Desktop\capy - copia\Q\Q\obj\Debug\Q.csprojResolveAssemblyReference.cache
+C:\Users\salak408\Desktop\capy - copia\Q\Q\obj\Debug\Q.dll
+C:\Users\salak408\Desktop\capy - copia\Q\Q\obj\Debug\Q.pdb
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\Q.dll
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\Q.pdb
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\Newtonsoft.Json.dll
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\System.Net.Http.Formatting.dll
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\System.Web.Http.dll
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\System.Web.Http.WebHost.dll
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\LibConexionBD.pdb
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\LibLlenarGrids.pdb
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\LibParametros.pdb
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\Newtonsoft.Json.xml
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\System.Net.Http.Formatting.xml
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\System.Web.Http.xml
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\System.Web.Http.WebHost.xml
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\obj\Debug\Q.csprojResolveAssemblyReference.cache
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\obj\Debug\Q.dll
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\obj\Debug\Q.pdb
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\LibEncriptar.dll
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\LibEncriptar.pdb
+C:\Users\andres\Documents\lala\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\LibEncriptar.xml
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\Q.dll
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\Q.pdb
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\LibEncriptar.dll
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\Newtonsoft.Json.dll
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\System.Net.Http.Formatting.dll
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\System.Web.Http.dll
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\System.Web.Http.WebHost.dll
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\LibConexionBD.pdb
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\LibEncriptar.pdb
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\LibEncriptar.xml
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\LibLlenarGrids.pdb
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\LibParametros.pdb
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\Newtonsoft.Json.xml
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\System.Net.Http.Formatting.xml
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\System.Web.Http.xml
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\bin\System.Web.Http.WebHost.xml
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\obj\Debug\Q.csprojResolveAssemblyReference.cache
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\obj\Debug\Q.dll
+E:\Desarrollo\resha\Parcial4_Arboleda_Sergio\Q\Q\obj\Debug\Q.pdb
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\Q.dll
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\Q.pdb
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\Newtonsoft.Json.dll
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\System.Net.Http.Formatting.dll
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\System.Web.Http.dll
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\System.Web.Http.WebHost.dll
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\LibConexionBD.pdb
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\LibEncriptar.pdb
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\LibEncriptar.xml
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\LibLlenarGrids.pdb
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\LibParametros.pdb
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\Newtonsoft.Json.xml
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\System.Net.Http.Formatting.xml
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\System.Web.Http.xml
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\System.Web.Http.WebHost.xml
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\obj\Debug\Q.csprojResolveAssemblyReference.cache
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\obj\Debug\Q.dll
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\obj\Debug\Q.pdb
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\LibEncriptar.dll
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\LibLlenarCombos.dll
+C:\Users\salak408\Desktop\TrabajoF\Q\Q\bin\LibLlenarCombos.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\Q.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\Q.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\LibEncriptar.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\LibLlenarCombos.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\Newtonsoft.Json.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\System.Net.Http.Formatting.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\System.Web.Http.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\System.Web.Http.WebHost.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\LibConexionBD.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\LibEncriptar.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\LibEncriptar.xml
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\LibLlenarCombos.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\LibLlenarGrids.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\LibParametros.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\Newtonsoft.Json.xml
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\System.Net.Http.Formatting.xml
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\System.Web.Http.xml
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\System.Web.Http.WebHost.xml
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\obj\Debug\Q.csprojResolveAssemblyReference.cache
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\obj\Debug\Q.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\obj\Debug\Q.pdb
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\LibLlenarRBList.dll
+C:\Users\andres\Documents\Visual Studio 2012\Projects\ProyectoFinal\TrabajoF\Q\Q\bin\LibLlenarRBList.pdb
